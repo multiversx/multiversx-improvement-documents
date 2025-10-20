@@ -1,0 +1,1934 @@
+[
+  {
+    "address": "erd13ncw7xp64xvxaxsmt3lnjlfdx69ju4xgzs8qvwgchquykyjcejfseheshd",
+    "balance": "539664770350693593"
+  },
+  {
+    "address": "erd12477xtxw465dwhngs67n8zmgm9ku3f00rvfwrhqh575jqdvga9jq3sp7z8",
+    "balance": "1015052602129732971"
+  },
+  {
+    "address": "erd1x45vnu7shhecfz0v03qqfmy8srndch50cdx7m763p743tzlwah0sgzewlm",
+    "balance": "1168907994519483924290"
+  },
+  {
+    "address": "erd1k9298jy5cdnl68hxlx7a6dc0v0es20fjesf92nqp2zyguwqkf8es86wgmn",
+    "balance": "1792291404588969796"
+  },
+  {
+    "address": "erd1h9uk7w9xd85q5sxv73gqx9runhgzcvsllsnnf77svzr2hdvt49ds8ze7jl",
+    "balance": "66717512745534255458"
+  },
+  {
+    "address": "erd1y6jslrt584hwxczk2hvrezs4pet87936ttqhzx63lmzwsg8gmw2srqxv47",
+    "balance": "263794881089022928033"
+  },
+  {
+    "address": "erd1prm87qnyaxdjdwga8hxc9uc45l7jtfh8arzc9s872zlzl0nkk53qdeth4u",
+    "balance": "1008703898993567820"
+  },
+  {
+    "address": "erd1kr9ecskejadz7zcggw06r5ez5xkyajj7452ryg5s55axhkz6ue8qyx9t7z",
+    "balance": "1803437567950693341"
+  },
+  {
+    "address": "erd179sg7jvj6ugrpgqfcmu70a2gcq50rahlyrtcat0jqttrlm72yykq7mklz8",
+    "balance": "1231875684643964896"
+  },
+  {
+    "address": "erd170clrr48hr64px86xg0sykd5sel8sg8wzzt6jhp2ta5jt4avvldqvtsea8",
+    "balance": "9853875578464654158"
+  },
+  {
+    "address": "erd1yhanll5xgumrvznynvfmhae5r468wsfzw8cjdwhkqrmtvts9us4sg8wy9k",
+    "balance": "106056359463651000778"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqfzjheygxh60utyrwfw3ucqyq4nfs6yggah0s3gjcqj",
+    "balance": "4554350262467851722385"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqyvx8t036usxjq56y0g7df766xywvtpt20n4sqtemrd",
+    "balance": "4286733564031362130333"
+  },
+  {
+    "address": "erd1fmd662htrgt07xxd8me09newa9s0euzvpz3wp0c4pz78f83grt9qm6pn57",
+    "balance": "2834975085458241697611"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqeax6uqezzle5x6u5l7nlf99w9e9gg8uyah0sm4leke",
+    "balance": "1303197403323457505811"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqw8pt2jap6pwnpngf6jlk5rygwzkwe0w50n4s5uwy6w",
+    "balance": "378289338931917674588"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgquw83k3pumtmjjr4enxalzpyhuqp4vsvlah0s0leqa6",
+    "balance": "157122330459627202762"
+  },
+  {
+    "address": "erd1l2jas6l5jwlu5fj7g68s0cxxeeswhm4hufush94uk8enj7de45es6hhuu5",
+    "balance": "107323813417122293701"
+  },
+  {
+    "address": "erd10ugfytgdndw5qmnykemjfpd7xrjs63f0r2qjhug0ek9gnfdjxq4s8qjvcx",
+    "balance": "82524032988256211575"
+  },
+  {
+    "address": "erd182jl3gwrlxmdk8d0v349q0ajyrra9q408h5nk06q8gwk4z7vvd6selkdwl",
+    "balance": "60866035422959513616"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgql0xalr2crqfe5ga6w5c564m7yy80ee7y4t9sl2n40x",
+    "balance": "56392334541860202073"
+  },
+  {
+    "address": "erd1vcpdkk2s3s6flst6edspfqvzy0hd0xth0hhg4vxzp78m9rm84k0su2hx3s",
+    "balance": "54543175411371879118"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqg532f5mdsqganmfd5vwktt7a7rdnc2lgah0s9q46jx",
+    "balance": "54259715383281603063"
+  },
+  {
+    "address": "erd1efmhgsypq3jsz6p9rp9uwfqjtqdlyf3yqfxm9sunka85tf0qxyksnqxt96",
+    "balance": "29364409028778598228"
+  },
+  {
+    "address": "erd10hgjzudpq0d0eyy4p68svv3rwdz095xdn2vwaqed3v6a6x3j246shf67tu",
+    "balance": "21664690031716898065"
+  },
+  {
+    "address": "erd1yj822gr5kx788tq4p3ak0ykpezpp3gdmdkuhtxaazg0whjghduzqvl0vux",
+    "balance": "19909668202043802485"
+  },
+  {
+    "address": "erd1998k3l3zcazseyj5yuxghkk64vkmlqt8nse39d554jpuazarhwgsrqcsx0",
+    "balance": "18383723384268206235"
+  },
+  {
+    "address": "erd13de6vjtpusayqd9uyck8pc0syqpc6fxfjt6t2nqh4fdz9xx7y6rsuzlgka",
+    "balance": "16599827842625321896"
+  },
+  {
+    "address": "erd149549tgf4fwa6p4vwm9yuek9khyschkrsvrryu40fkpymegft6lspumpdy",
+    "balance": "16082160241705503103"
+  },
+  {
+    "address": "erd1gu4zfsh7jff5zya4upfkdh40pptav8v6pw8jmr8tyw8m8degfp7ql0a9l5",
+    "balance": "15097787457763093443"
+  },
+  {
+    "address": "erd1y00svvrmzqwdh3x95pk0z8rej7gea9h90ke3jhqscgc4ucv6smgs9dsc8v",
+    "balance": "13205751060647752872"
+  },
+  {
+    "address": "erd1k0229tcseztvzgls7umljmdh7h0c6lackr2ulug7p9atekdjsj6se3teqj",
+    "balance": "11919077361436392785"
+  },
+  {
+    "address": "erd138s3zc8r6uuke88k4umr585w5j5eytklkkn0yryxczgh3j4uqr8q5t0duh",
+    "balance": "11072716142355814746"
+  },
+  {
+    "address": "erd1qcsr0lahva3hr75ngv68t4x73rkur4h5pk7srtq4ggyajknkp03qclv8ke",
+    "balance": "10877962060685760345"
+  },
+  {
+    "address": "erd1yerc5r9zmr0k52fzhf5yp7smvw6k4dxccrnvn8fj64fnpuvcg4kqrdzy4g",
+    "balance": "10872584011227558978"
+  },
+  {
+    "address": "erd1agez4u5j5w8mdedye8p9mhqty2ssvpufldf0ntj0334sy72njmdq7vzd43",
+    "balance": "10870786880900802095"
+  },
+  {
+    "address": "erd1nzxn69dkk4k323pfx4u7tnssjl92fltz95r2dq97083ljs89v2uqujqyd8",
+    "balance": "10867248510389376252"
+  },
+  {
+    "address": "erd17lgj6u5vtgk04vghga43l7chhz9g7whavy0q45u0u0keneq99znqpc3s4k",
+    "balance": "10399072821500086369"
+  },
+  {
+    "address": "erd15647ungzp00e7scqqy75kre2zqwz64nl05q0ujuarazt6vmq34ps8yz4nv",
+    "balance": "10021641570236513970"
+  },
+  {
+    "address": "erd1u5hyrg2z20law63k53nl8qyjcjy8xds7ydz8x57uhm8lcmc223usftjnlh",
+    "balance": "9905324876235919322"
+  },
+  {
+    "address": "erd17vhjpyakh7zjpr9f9ac4s0aq4x7fdm0j92kne7w8z8ll2g7vxp9qjsd8z3",
+    "balance": "9816422323304106229"
+  },
+  {
+    "address": "erd1tllegj0rycq4fsygrr948544ajvjxsarcy92jvpnrm7nnvrknqlqjnk9s7",
+    "balance": "8800101734901270011"
+  },
+  {
+    "address": "erd1kdj54ukmhgv7vujgemegl9hhhg0us58ar234994lrlptpp0dwves3v8tmj",
+    "balance": "8795411542396328395"
+  },
+  {
+    "address": "erd10dzdv4aqx6ktlxrwzg5k94hcqaht4277wzgg5k9dm4xgct0vvteq5hrxvz",
+    "balance": "8767595705375832634"
+  },
+  {
+    "address": "erd1qkl42vja6n6tvvm98n8sqxg4yz3yvp227hf7qt3a7ctux4hzqd8sgndmkt",
+    "balance": "8688004167776729050"
+  },
+  {
+    "address": "erd1fehnqsunudhs92d4w979eq6g79ll6llngch97rux6ct5kx8m8s5q76zq4p",
+    "balance": "8363233017801191255"
+  },
+  {
+    "address": "erd1aa5seq2y7h22jm65s0qmxxr6vn3thhd5vewslnug0nc3mrz3667q08hyt3",
+    "balance": "8352667933369123561"
+  },
+  {
+    "address": "erd1386969wrppst5a985tmaj5n3etvqxyrldyx9s9q3vfet7qkk6l9qc9veda",
+    "balance": "7935274863549072500"
+  },
+  {
+    "address": "erd14325sfcqcs9hzzkmdd27jkexxkzcqj3ael5a38vt2fh7l6uds75q9ze5k4",
+    "balance": "7915707602825714302"
+  },
+  {
+    "address": "erd16ldp9t8g9xaeteyupgqmuwqus00rkdzkf7sn0td25krk3j4luq2s5mn6cd",
+    "balance": "7755377793529094470"
+  },
+  {
+    "address": "erd1hkdhaqa6a7sfmrc2mmzajrp895tfrcm7usufspwpye644z5tjh4svstj6r",
+    "balance": "7748838694805083741"
+  },
+  {
+    "address": "erd1hx746v53k6vhzpcdslcvw8mu7ac5jrrte6rq403rqrqma0y0zjpsfrzeyg",
+    "balance": "7637442667879935920"
+  },
+  {
+    "address": "erd1n73zeu6tq825va07l68qezavzvjsevt5fgpncw2edzc3kpc6jllqqenyks",
+    "balance": "7277780296751839473"
+  },
+  {
+    "address": "erd10qmwanhj4ljqk6qzy53stk2gyrka9ktmga0ffg052rg93nf63lasxc6vgc",
+    "balance": "7033491789408414357"
+  },
+  {
+    "address": "erd1r6nd776pe4k740l5ystlm96k9jyxel7lzupw0mhatky20k0tp2ssm6tw5x",
+    "balance": "6586684046864852275"
+  },
+  {
+    "address": "erd1kvrqdfe5aw2uy59w5tdn3zz8s0wd695funlgzquxt03p7ltjsdlqxg7xq2",
+    "balance": "6579296238919072152"
+  },
+  {
+    "address": "erd17496yrhsde07chaf02k9jyrkyp4k54vtx7pqr5jkfk6f4rna04tq826v60",
+    "balance": "6550226793934633789"
+  },
+  {
+    "address": "erd1n4y4sh7lrq4qukecnjrk3a4t6fm37wvcggcuuu7qrzqvdewhwcwqcgs0t2",
+    "balance": "6526263399402829344"
+  },
+  {
+    "address": "erd1y6r8z5c0ry6hd5nw3qvvzmr72z6q4pxm4jsu5m26nlpu0r5pc5fskv67h6",
+    "balance": "6142697231907513026"
+  },
+  {
+    "address": "erd1z0xzxtku5p0haqjkzdahf8aee2xkta9e5r373t2l6h33l58l6e0q7h79lt",
+    "balance": "6036008603321128137"
+  },
+  {
+    "address": "erd1eeve9u9gqchvmf49ysyp4rdeky63nte4cv5l8m3h7mxgfh8ttkaswsx6v4",
+    "balance": "5965653173709612312"
+  },
+  {
+    "address": "erd1f3cmqyveq2sda3c2xvkg79qq7mrpnefrdg4dk4hr9g0hnfry3exs9f5cwz",
+    "balance": "5797057104673501599"
+  },
+  {
+    "address": "erd1ualxrmc444eha0h5gwq4nal9kktyj4z572acyelp8enlyjml23vqu2hezk",
+    "balance": "5794196638808667836"
+  },
+  {
+    "address": "erd1tr3vmfnt5c76acvuy3x6vjyak84alj44sym296g4mpgku42zj8fqm7dt4p",
+    "balance": "5643941466492609445"
+  },
+  {
+    "address": "erd1ryw8r0vuf89dvys5xxjkeckkxc27ghy3xn02xvv6r9fau8639gus38d98r",
+    "balance": "5617724405207387371"
+  },
+  {
+    "address": "erd1ugkqg68xk5h7vy2uygwequv40hefqd7tam9asjhjult3m8de44ns6c9k3l",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1gvuw04t6fm52nwmd9tptkdfsa9zzgem6hkh2aee4rgwegrzf3wasxff4dp",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1nkz26eyzqv9246t7rwknuel30ynn099wvu2unuwmta2vwyarc83quwgd3g",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd13wk8pgzglf5mhd8jmvk55rar5lusupqdmaaxvse58w7thchd43qsgr5zcm",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd19lkh44yuzk9uza0nstzkqaqae99n67ueyephattjedve4nqrs52sdqwpfy",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1nppr8yff53qgngcpwgudhuntfa7d5ypzcxhxm2xdnyehh6eg86qspfa9wy",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1ar86n0d0m7678j6hudp0g8g58dure8pn3u9t5x4a8wa0yus5atgqn5uv3k",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1tvtykhuxzw7g3hjnlymxnar3ke328tncqk5t0kqlsf56hvvaluvsnmkrq0",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1k6eavggce0aw2elttklt22nn8dx93svdgmyl00ltul7gsdyht08sgdhp4p",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1f0pq7hz8csgs8rhath9sjddj8yd93q78w4hm98s0um06ptmacsxs5t2y63",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd15q2p6jplj8ks4x34pfty5kk9jnkrypxzhl57tae6sgmzmwcmjuasx6ar9u",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1qgxp4gk0a496cyww625t78h5l2jad8pdwzrpy707fjtsgxwaefkqts7pu7",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd19k9dulh573e2krtlkltqg6hualgfcy4vtp2l5e7e6snzfme5u3ystvntek",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd19rxccvlllswp8hv0lxu9qt6vzye7nx3nhc2ttdp69754690rsddq5m4jxn",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd18l5pc50j2pem3fk30qmr2xd6kc72h2pacw40g8zjnzqkl5hvqf3qecfm93",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1cd5klyvn6zwjv9er8u54pdd0umsuwdjwdq8h349fwr0lmu2s4njqn8ezk8",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd13d04sx5knw9xeg5vkz3t5kspxknxrzvruet0ftkj0cnrad4pn7hsvxqt3x",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1q03wlk92vk7mv6cvuhfc94uexrhqj4yk90pw930qwftvwksk0r8sk5uffr",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1vemxfdekexx6sypw0yxfy6auh6lmgkqdmjm6z870mxgjja2c2hpq99lk59",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1zn25xrlzdgctttfcx5ujafh382nu6g23fjjr0pk9g4tzlm3auq5qg7gdzx",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1nhk62v8k3rxp995pwh7sma7c6g780vhfwuzth8tn97lqfyaf6sks5xjngk",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd106cpgm6mhr5q3ckps2yt5nn92tm9gup9hfvvzhtrxd6a8n20h2lsuw7qy4",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1rsev79kxgysttwrcry9jg4lqa3h0dq3txy3wemm9ne33wm4cyhhs22eg7y",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1m593kw0mkvnp06kmhy2m2mdex67q7fr33dgag07yv6p8gs5j7wys888xla",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1vl8tpld4w97lhn6jyu7vwlzhnp085507jtsxts48rsju343nzwvqqnq5jy",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1nah3qr623lszeqqafaeup2sq3k3gs9ushcvacavnm5y89e0m0daqynmuvs",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1qewerwvxlkxxfsckf9qecfafw43wgmjglwsvxs4lntgwmz2cyf2sf5gs5v",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1kefrfe7slunfltgemnjatlzgmzwhhuknmh5xjarv2qjuyxnsqlusu8qtyu",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1ct63jrp7v3xsehpnr4ev2mzflp8p45jalwmezu7nrdy425gehh2stv5pec",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd142kf4fm5ksa5e67gva37tpz966rcenarnrmha6stu49y2htncz8sc76al3",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1akc5v6fplpwkx69u7uu35ktz4huu4eqxn38w8k07e0lvxfjrgmwqy7xwcq",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd13tpzd8ffkvj096vkwgg2p4cm336p8nnx2q3sl7nhxy27kx8m93dqz62rwj",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1jj72mldzx90yuygzf0tsujmvtyxcmc4s8hsdlnk2lmwlxqs73ujqpx8ahq",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1fr3e8wr6nyd9kgumcvt3dfjjz9ce0dxhq86y6nn5mxn5tyy2dc9qjdkssa",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd19h5746paxunknv00kq56mg6n4j2x4duspuves8tvpzz62cucr52qc9xppc",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd17mmlrnt67cfdd9tskdn5wjw06a9a8h2w3cuecvvmh2hr787hk8esdv3alk",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1m6d6nhpmch9hn6kxl2x2jcap0wng3y90cxalxdnwempq2nejve8qn5mp7y",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1wk77lm643z82qnvhrzqdp25w46mpt5ylm52unrd9yklqyzvtzefsaafjhf",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1pvex05uhf5v3pfldfw28ufzmrmhy7pcnmjue33kk2wz98n6h02pshhu8fd",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1304kxsyhglfqqy4k38l0qfs608gez0afftg3nwud2zlf2v7ykxas7lt7zg",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1scgwmgq6nec740rjhzp4ctru2auznd6ghd7kht6szg3uv0gwaxms8322dv",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1d8uugkwhr84j7s5vdj9vssynhratmfx42r8nmd9cyv5qvgcqxt2sxt4z0m",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd19kg0vl0unlpjmgd23slyfsgq0nrmdpmfscc0r086t6tkfn5qp8dq5c899y",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd157l0sn79hhwe8dylftk33a4hffyc2ct3n5mta2f68ela570fsdvqa5eagn",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1q79p0hmuyyen90cwkypmnksvxawqcfh0dazahx2x3fkwk45hnssqxfgas4",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1f9yc0ap37nxr5k90svfse76fp6e38gx7s2avulvpmla9ahsakj2qkdu509",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1q94j7shx5yglavw4e0f6utec9myqv7pzh8zfalnqlfaezezwqfmsuawnmd",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1sx30zcz4yhq7tf6txcvn7t4yxm2ct9g72tq9e52dufuw6g5pel4qwu9z0q",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1pmvfx8sf7rhka5cz6mfnha644ecustxa9462rcd20ypzkj5g9feszwpnh6",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1yuhwayqppjpxujm8h97pyvmvf2m5cjcuyfa6tpcndgfks6xwnn7qw0zm58",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1p8dhfwzdzfecenmkv0esqamwvslmt2pv4cp7d69a6jdeqc55hvvqyhuadr",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd18w8v7j65w7hvka3nsc02g6ufxmekd4zdgglzz7dma5q02qtn7wjsx6wlq3",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1nzgru8t4uvsq3lsqc45lrqj6s07fcxwyej70t9gqpuaktskycwfq93tdrs",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1z6jf85f42umfd7j26mj05adw04wqr93r9f2he3vnv8p9m6jyupws0t990s",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd17gnjyf685da993fu5r446ugttjlesqs3pgu6hs2tfgp2a20fzecslx6ks3",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1kgjx9yzzwgu73wqqn6n3mf6e0hwrux3fg0adqxqkgxetzl3hncequsjuhg",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1s0ssy9nsc67e649d80cgxc5xx2agdktw5mnua3ttj9azgayjhyyqptpwks",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1fm0r76k0l6wrzks4n93cvarjmact4rjwcz2z5sn0st6xt2tv8q4szsm5zq",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1xmk3dnqmpd4vcl7wqylyuhz5j8z2d3fsy855s2tjh0dxllucg0gqjhr479",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1lzfhkqar3fhje23wduel55a765k4jdsq3jy9xz257a7rknz32slqd5vngw",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1utkte8gy8exkak4hufzqvy6ujfty5rkk800mmwkcqk6kdwq4gneqx8gx8g",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd18m93m9h7uyrqvl85erxzn5np3kvn86yktntqqa3l6j8hw9snj3zq5kqd8p",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1as672tu6ll7hl4rrq3srs2waqx2amda2czy5tnda67vpgmtd654qejg0a0",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd10kxusrs5ljwzzmefgemev45ug06z59h9fanlvuvzg7rn2e9k7t8sgd84lt",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1qj3l4kvmna5hxcwjk6p9vfxfns6g96utaadyjxmlnqeyjge2c59smuy7gv",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1zml89xsyfsta7lxemasd7gt696g5573qwvyhrwtjd7qfnnehgn4qxwl3jl",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd19pppsk64vy6m488fcflhjl22f50f3gqwcqcajecdj2w4r7dxen2sjd6ljf",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1kzpw2cz0f4jx36e6ythd4cdxcs38u20dhwctjpx4tvfvtfrn44us8cgnpz",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1yxutaalwmvzd5hf5f5cz5mugerlgvjn76qn330359w3rkv7238rq0d6hcy",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1q7aeyr64s5vgtngnl0vmwenl3wnq5enf6zahct83w5wtl07u2hzsy806a4",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd103qz4pfm8n0rr7exmf8dp6j3fvufzw5gy3spzuydgjlssa9x6a6q86d0lf",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1jx2svnrhpkzu45zgpa0g4mwpxep66jsff7ydpuxlq9z9crfjdt0q72tjkd",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1uxyzeu9qfxcj6aaslm9wdtrseyquls2mf23fj39g3ltt9tm6wwdsscw57j",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd12ytelz9cx7pjcav8suftgauucxlf83a482hsskjn4e477gx6ha5qtjgyxw",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1cjhc03x7tkpr7strsjm4m7dtmcletxwczxdac5d4mrvftgn5wnxqrrx3f6",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1v4g73aflldsf3y04uq03kcewj2z8pcfrsx07684p4ks5cef5ln5qkufp5t",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1tyhaj6zpvc7y32z2tvczcxnrc7fzg9eplkrwvu2zmk7ca75krl0qw43d9j",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1g0yjvva3l0q2h7fex3t8jfq00kl8a24z3h9u5f0scx4fgeafuylq2qq5n5",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1hddax0fgna0rrfln63zwsfxme2xe7qekswkk0306xr8hhlyvay4s9px8tt",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1xfcp6xslp2ghl52dn4p44ew0txgyns55xt9tlrht7hfalngxcl2qqgynyh",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1jt4uxja70zpdwku7qxl06vq36ww3caz4ngkp5554ysjvxtm992wqzjyppm",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd178r8htp4pktz0te98geze66gg7t52t7t6wf7yhtxk5p33l6y8x2suta8qs",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1ptylp769xjd3paz4u96rc03cf5xzkpzjf0x9zn0jxzy823kttz3s02e4c5",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd10sh405yhpewd4tcv3lpej529ksmq069a6jk88n6ja30gq8z6cytqclzpan",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1zut6xvn4jlxn93yq745tgmppnlmv9shv4gks7n7erpp0r7r4vevsguhsu9",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd17jpjkxt9m6haeszg4nsquy3wcveym2n7mljj8wepgscsp9lsr8tsgyq8z0",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1ecg4cc7a9pquqmdqgag2kwrnpkrlzjws2shmqmr63azyvhkscazqavcywg",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd16l7redljmrrgmmreqd0zlvmhx0y0p86l9x7gnnp72yvt7q8vwqpstn2fw8",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd14vfletgp9qnwk5fvq444alzlytzxc02jq9nddk5cst5jnukx8ccqpa2t35",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1jt6yw8e497a4s5y8mk2cluamt4d6g89lsg246gxp8c2vg6favpsqwxxv6r",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd14cxc9unejp6hya0jwqnvjq9au9z3kyruknu5rkgdlr942r7vq22sdsfz6z",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd12v9fdfzdvc9kv3ctw5dwf53ealqhdqwjkg9rshpttw2pvphu670s3vtpsc",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd10pezmchj37jjjyajpqpnrhactug2re5slpyexzvgxndr08jr3skq7vkqee",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1e22k84e38e9s2y8gy993p9gr2ns7f2edwj2wse6hezlq4dzn0nts2xfa3n",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd16rdmw7evyxy4a6kn5sgagvv6at5y0lwjj69z2xqsr0g2jregt4wqwrmt0y",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1qzmrt5e2galsfjgg5s4q29pzd5xd689ju7rr3mmcdfas76ndgg5sp55myh",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1nzlx6kvnwzdeyme6wjdev2afhwd5xp3yhgaed8f76x2czrhzsveqyks663",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1q3yfrdhvl38qlx9gqrtfs0cufmqlnz0ytzsq2a5ul6ltwvugz8uqx2nn30",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1zh7pxjmka4h7ms360edzt4h9exzz3haj8uenl798wfmnmzhxa20q8tvu2j",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1zt4nzz368h2s8tkgkp02ypwpr89s2ekm6r377hkpxx59g39sy87smk4lhn",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1t33cx85zh6h9uulam3s6x8z8g5wyev9tz8p48hs9uynay0r5d6jslp868p",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1rt5e6lf4xsxeqn3tcnqp6na7cy9t6g0t6kv5j660rh9j2mfs3n9q7qq3ds",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1dgquukcas0eednnsgj05exk9lgvauj8n7p7kgq9rl4f0xe8mzdkqf2tku2",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd1csn2t4q2fkehz28zhl034td966nzz62x5l9enh42md59xckz8q6smdlr8f",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd14mum6k3nr3yjrjlq0emztc9tjzumy558x53nxlhhkhpl7qn0s7hspt4yaq",
+    "balance": "5533275947541773966"
+  },
+  {
+    "address": "erd16r47jrsqd23msf24k6az0ae9zhzf8d7elzw72jxfu29gxv8mjvfsetf5z7",
+    "balance": "5533275395973626631"
+  },
+  {
+    "address": "erd1wcs2fc5zgnk7vqgrjesf399mh3gxfdmputjnjt5qdfdhle3z8nwsmev0k4",
+    "balance": "5532809424847582603"
+  },
+  {
+    "address": "erd10s72lw8y9p5v8ksl4ug58a52kxzmyj0wud2n47d35rcnt6kp7qms6pm00l",
+    "balance": "5532001394095827445"
+  },
+  {
+    "address": "erd1u6gmdl69lwlkchy7f3t7873jcqs6phw78s27jurudpde2f2pdt8qtkl3sh",
+    "balance": "5509225256992226461"
+  },
+  {
+    "address": "erd1mrg5nhfqjw2skt5et48xdfkvf72uhgrkwa06zx6gq8jzfrd584cqsxdlmd",
+    "balance": "5478704118202500150"
+  },
+  {
+    "address": "erd1l3fqd6q9r669za9szfxwvjsvrx48ucnru4rtj7hrjngf48muvc5qfn6tqp",
+    "balance": "5478704118202500150"
+  },
+  {
+    "address": "erd1yz73c9rj79wgwnpejkktwvgyusndeq6f532a2k3kcp9flm9nasjqxxn4kx",
+    "balance": "5478704118202500150"
+  },
+  {
+    "address": "erd1a8sjcxhdvf0dxzamdups4cv34peqvductz7c6dpwu85wl35xyftqc3ktld",
+    "balance": "5450276880736188726"
+  },
+  {
+    "address": "erd1ymeu0xcw457rgm9t8r26f2whgxnmxu40q42cv9e93kdpghlkrksqheajuy",
+    "balance": "5415374036885695381"
+  },
+  {
+    "address": "erd1vluj0q7upkplvxmy4f8csnyw0gyranr7cp22xxqxhljmjlf3l8uqkvd6xk",
+    "balance": "5335964152500823979"
+  },
+  {
+    "address": "erd1h3hzawp66gfa7z6vp92htpmh29k2gsmf7xl8csw8saw0z03y9ygsqafnr2",
+    "balance": "5333531339199448583"
+  },
+  {
+    "address": "erd1v42nukgt4v8w9amjtat35332czugta0lqwdsxajuslm3t5kqw8msh4ktv9",
+    "balance": "5179149678093472405"
+  },
+  {
+    "address": "erd10zr6yyy6k26atfffh8s2tzkhr50nces4w6sauj3sxch6uhnyssjqlac30s",
+    "balance": "4980452268182101538"
+  },
+  {
+    "address": "erd1huv6jehy7tdn88wu8qr3x5s4vlq5dvljd5aymqsak97fdj7vdr5qmjcert",
+    "balance": "4916705845273281195"
+  },
+  {
+    "address": "erd1qtycrde07wzemmtmhfagkpm0nvruuryky5fm4npnkr004s429zmqnqcgq7",
+    "balance": "4748442402306427619"
+  },
+  {
+    "address": "erd14089xhfcxw03tzczrqmhyfpt8fk9xcl970fugxfzhuj5adcfnn4s7vrq60",
+    "balance": "4601307418635833101"
+  },
+  {
+    "address": "erd1qyu5wthldzr8wx5c9ucg8kjagg0jfs53s8nr3zpz3hypefsdd8ssycr6th",
+    "balance": "4472705910679087502"
+  },
+  {
+    "address": "erd1g08m4xm9vcal9jcvq4qx5rt7tt6wa8yp4znpteuqxslyzxvnaypq6fffpp",
+    "balance": "4458359251794816220"
+  },
+  {
+    "address": "erd1v70p4lphnvr7ap7dr3snmx5ux8t07stpfhn97pq7qhxfm87wthusa07p3m",
+    "balance": "4426620758033419173"
+  },
+  {
+    "address": "erd1tyu39y4uwprd5gnkekr4cvev8yrp5gkfyyl5m3v6ey7d4dktmlxqs49gea",
+    "balance": "4426620758033419173"
+  },
+  {
+    "address": "erd13jq2m679en49ywykkdsrcjwc8e3sdtdxem2y5r3cjmkq3x5k8xns0xnsc0",
+    "balance": "4373012733256973128"
+  },
+  {
+    "address": "erd19kq46ekqg3g02yf74x4see22w0r8cqvl79yzkwmkgfy2aqug9ccsg0p2lu",
+    "balance": "4372499815031425631"
+  },
+  {
+    "address": "erd18kg96axveady47vh4cxhxxxzjevy0qwdyc7czlkx54zq5alwlc0qsqs96t",
+    "balance": "4343247940979022700"
+  },
+  {
+    "address": "erd1m6qwk4wxe6d0wadzwmrq0xq9d36ferkp9q66fx0u4atxscmmqa8q527wka",
+    "balance": "4317477099354871541"
+  },
+  {
+    "address": "erd1cwsv5fwm6ppzpc9eamvsqypx4j8wgpeya7gnju5d6wf8qphncg4q9z93hu",
+    "balance": "4306956265753180731"
+  },
+  {
+    "address": "erd1sgwd3e2zrg0jddns2t232czydxauywsgk5kwmjn49u9rnzu62l8q6596r4",
+    "balance": "4306956265753180731"
+  },
+  {
+    "address": "erd1nxvljq3dkwatlkejn7zepsva0jmvu592q8xtdxlyafm9h9sejjqs6dyenz",
+    "balance": "4306106310874586346"
+  },
+  {
+    "address": "erd1ptmjx5rqyzjw35upx3ks7jk3e5q47042n3d43tv2fn8ex9wz3xps6e60s3",
+    "balance": "4306106310874586346"
+  },
+  {
+    "address": "erd1e5svaws0gem77675dzxtusnwjtg4hdfnnhx3cduu962jp8jun56sk73vlk",
+    "balance": "4305940708316667067"
+  },
+  {
+    "address": "erd1hprlth325q507tj257es528gvelhtjmqsvkh4rn0h26tjgfrlmdsfyqf5v",
+    "balance": "4293440062858284500"
+  },
+  {
+    "address": "erd1z5grv5fa4c75yg3g0elc06z2lp7pk0en3w27m2pnttgecr2mlu0qg2jdlw",
+    "balance": "4262157564329419922"
+  },
+  {
+    "address": "erd1uvxul58ygnsavkvx5n8tvnld3np0zwuhqmw8kmkx3gnpka46ml5qzgr6mm",
+    "balance": "3873293163279241776"
+  },
+  {
+    "address": "erd1868vluqhw9j35q3k0pgksac0xrpmecu5nylh2ect9dyqap6kyjkqqsaylt",
+    "balance": "3865276266429392607"
+  },
+  {
+    "address": "erd1yjp7wd8qu4l8v6chzaql5mfwauh62lwl9q3kp0j8xkgzkrah7zlq9l4ha9",
+    "balance": "3791055910069095672"
+  },
+  {
+    "address": "erd10h7kqxcjn3tjuuk8nqyvg3l4ezgml3rk987ae928hg9fexckt9qsyg75sw",
+    "balance": "3734652624142097342"
+  },
+  {
+    "address": "erd1dnvgje7m8deka93lekjrpzs8pf2wkw406rwwx93mhg4xgp7vrcaql7wvn0",
+    "balance": "3619334802393808792"
+  },
+  {
+    "address": "erd12cphpnw4cwd3fykueduxlla68m64uem8lfulahr4s8pl3q62cjmq9yvdqp",
+    "balance": "3478234954338103694"
+  },
+  {
+    "address": "erd1fka9r7qchmym4jmrzzv2eyypz8pusf4dzg5sqtgtyuww6rvt4avq4qgaqq",
+    "balance": "3415760249860637201"
+  },
+  {
+    "address": "erd1epjn7sguyvmaxqcualvuzm0tmuklys87s5cpqfrpttu66hm79p6qwch8y4",
+    "balance": "3415158348241760662"
+  },
+  {
+    "address": "erd18qnqalqvjnttcwvea24emlfmnppw7utnnxeaekdy4k2kgq03nrmq5lx7dr",
+    "balance": "3342853957223259121"
+  },
+  {
+    "address": "erd1k5uaadyg2dscxer6d63dwzqhrrw9gddve6eg2aaec35x6afdl97s6evfk7",
+    "balance": "3329544431321879615"
+  },
+  {
+    "address": "erd1ylh83fh082jpwnc3r6vnc9puymqh33jse2hy7p36dskjkz6ucetqrlfpcg",
+    "balance": "3320050146422666437"
+  },
+  {
+    "address": "erd1csyef9nuc7e02tv87caz0huvljlmkxy98yg8vdmjg6yhq6caz4jq7qne0q",
+    "balance": "3319984251411311380"
+  },
+  {
+    "address": "erd1ca37v56urqeskf765m4z0jsrx2z702wk7n90eg7ppvdhzxk67f8sdjl8p0",
+    "balance": "3319965568525064380"
+  },
+  {
+    "address": "erd1rth38zsz4wf7jy55peuk8lf2x27yfavk43nwtv4p7xgkmez4g47q5rsfnu",
+    "balance": "3319965568525064380"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqkczgzflsk26ck6avfwcuhv73cjdkfgfxah0shef4zf",
+    "balance": "3319965568525064380"
+  },
+  {
+    "address": "erd1m5su3zsr3hjzwdyuhl73lgs33ayyses0s5g8dr0k0450jstv3c2s3np8jg",
+    "balance": "3319965568525064380"
+  },
+  {
+    "address": "erd1vpsrk3kcwyqsw8dsdpc66h3rpwu0wf5ukn2jfshrr5qmddl5f99qwfcv5u",
+    "balance": "3292598540963509649"
+  },
+  {
+    "address": "erd1kfqxejvrkejz39ew5ydq6lz5rxtyq7xm8cwzwnq6x04gw0aqfuts7sjp9z",
+    "balance": "3218118735697260002"
+  },
+  {
+    "address": "erd1lr9tfpqhmrfgts6ke8atrpjwjkueyqypjtmz50geuxa9y7cxlxks8z7vrf",
+    "balance": "3209380691675674490"
+  },
+  {
+    "address": "erd1uwzxc8p78qsuhkd3tk702wwzcm7dgmyvzq3z8cka9uz09eaqykhs2wuhnz",
+    "balance": "3179321373173679140"
+  },
+  {
+    "address": "erd1m5rhjns6x8dtw5pzq8duxfdujs689zualellhu9q2qf82pgxgr6swqcgck",
+    "balance": "3153382624451436314"
+  },
+  {
+    "address": "erd14z57nex30x4qmqmj6a0gk7pqw0za4qwvc5nf3uscs7ua4e5ulh4qhlev94",
+    "balance": "3152445429826523311"
+  },
+  {
+    "address": "erd1fmfderwa4tajjj0atwekpugrnt46rfpe2c5jw8ehdfe3c7rlgkaqqh56xy",
+    "balance": "3085309283403415370"
+  },
+  {
+    "address": "erd19x6tqqu97xt0ch4uxsg27t7lzzhj2g044vqvxu7as47kzag56j5s7zmum6",
+    "balance": "3015633923564926948"
+  },
+  {
+    "address": "erd132m3zt2ku6fp247l4smehmnhkmn98g3u8xsqacuvd0a9c3mz3zqqx9mu5j",
+    "balance": "2960155888366542729"
+  },
+  {
+    "address": "erd104hmg9s9s30d6ltwv8fgf2y9vfpdmpur689yvlahuzx99l9jf7zqsfrnfq",
+    "balance": "2833666167604895263"
+  },
+  {
+    "address": "erd17qjrrapj00j9luxtxf05cgxpyr2a478gm73krpxj8qz60vfel9dqg4yxdz",
+    "balance": "2748858858559734163"
+  },
+  {
+    "address": "erd1z6k5nqnjfs7f9ycwyk5tlet9lzu0c4fdhqg79w7tfg29qhv8mhvs04c5rd",
+    "balance": "2711727178232578598"
+  },
+  {
+    "address": "erd1rxd2u0z8x4j5fusa86cxmrusm2zjcwcdtfxgw3euya7t3330eq2qlnmf6j",
+    "balance": "2645957924054134877"
+  },
+  {
+    "address": "erd10un2zlgxcspssekk8djy8ej9pf9rcfz6ay4ycg8lnt05a5ef2slsvtuqtp",
+    "balance": "2408830034412573595"
+  },
+  {
+    "address": "erd1jze2hnf2evcp4neswsr2pccqcamw0fr6697vh5aktkjc8fgg8ycqwlrdjc",
+    "balance": "2398959726703806385"
+  },
+  {
+    "address": "erd1uc89av0g75wqumpvv20sv5wa9cflpx96qmwtn6t59kxmhxzdswxqlvz0rv",
+    "balance": "2396394200211792128"
+  },
+  {
+    "address": "erd1hqmwuwmuwrl05l0z8lqnzcce4leh4m6qlfakscql3066xw23xgasksy4yl",
+    "balance": "2322885042597359933"
+  },
+  {
+    "address": "erd1k5z0edy0ggqdjrgcmqzfsa38gyqctt7cvn3hcjxhmjkv7xt5wy0q4ehg22",
+    "balance": "2313001244897228296"
+  },
+  {
+    "address": "erd1epmr648vwg6jgqmwf5hkevdkjgxy3jd2cw7x6hcp2hp4f6e7d7lqt6zpax",
+    "balance": "2288084542234669150"
+  },
+  {
+    "address": "erd1snv4mu9trscx62a3xjdqqqh4ya2awkwkh4sdvw0ujdhrcjja4pxserewnt",
+    "balance": "2265400513533697274"
+  },
+  {
+    "address": "erd1af4zhqdj2avegsl9x8t9q99lrg4t7p0sap92s02645glwzeylrhqf2s7f8",
+    "balance": "2241398759582712912"
+  },
+  {
+    "address": "erd1vtvg6x7l8g9h608cmvewyyn8j9dhrw465ygaqd408q8gl8a9xrfq42g36e",
+    "balance": "2215902306504757935"
+  },
+  {
+    "address": "erd1y9adt3h43ppyhyzf0xxeqtcamvme2un4rlwgqcc02tznqfz5gt5q57h5cx",
+    "balance": "2213314849905916323"
+  },
+  {
+    "address": "erd1azlkgdlrz3h5vxcgyswmd6sufmsuuv9q0s0g4qlwzxa5awxfjy8qjszx9t",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1463wxuz6dpf0s582jcx02g0qd6c9y24f8kyldsr2c8m3stz2x97sft3r69",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1nh4phexhxrj0sk3kg8s4l38t45zjt66g2hfv4frvmnfgh75al48qqx4g8e",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1y40fqfdlzp60mantkls0df8a9qzgq9jxf4h0jgkf8wtfhnft8sdshnep6l",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd106t53dk4qr49mkq7dsv5jn9vvl0e88wx93jrwsgghafkuv4espmq73e9k6",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1elcrq3f79w2rk3ly2r3gmlcljsrnrlgzvfjl07eqr77e3srh78tqglu7j3",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1836yw9d997apsytn7jkxda49t05wv0q673qse0fhkxqey337dxsquz3kq4",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd13cn3pm4asy3p98al47zxjg4d229wpcp70f3k4asel3sju5zanlgshkhz84",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd13cyha6p9fz8jnfa0l6279sndgcdypa6n64yjaxjkltce9nnzd8gq0adafq",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1kl2h09xpysl8zyjtjtnlt4hzz8jmujagvqxlk0cm8ysuw5c8wjpsw8ye89",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1wyyr5s88x76tscvsh8py4x08nffqlemhxukxzn894jfpavtq3a9qk34hra",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd13uqq6qvvdw2jy8lwehxx9tfajmcpmyn4dt72ghzxy0yhjzxln4mst2vf4j",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1wjc8sjgf0n6ln5edxzxlnszv4nr44rmuatgwzee8z04t7q2tgd4qyp7knm",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1hat2aqzyrkylas6lk5tzycyvla4c2yqrj8agu9j3qc3h9cuv8resqu7v55",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd10xqmsrk9aw0wypsd6jlt7s78lp2p9hc4z4xucn58darnq02sycns72zdqy",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1jp963lstg9mwz645hr2fl7d3drfwu7se937dz7yv57k3g45vrvts6w2usn",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd16fdc4wkrrzjqxnzj8axxhu350g7deu95wj03wmng5kkzc72l55uq2t5mk8",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1va77wah506ccvkx39pqelx5hrqdtxp826t09vuaryv5w4vt40e8s7phtmc",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1xff0m4qf45rz49wwe8yte4mf6wxndq8qn0jxua6uyyth3t7edmgqs24fps",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1pgrlek8j6k4fra2dvmxql4tr9qua8azu3mcu3jsyjypunu5ssuyq9fvevr",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1svfwjasskagqf865pac7d2t7wrrfx7hmuf4sjk0zfvh29d07k7zqapeuyg",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1r4gdtq33nje63fn48n5ezmeggyeecmn5fr7l0n3lca82k0z4un8s3nc9md",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1ssykqcpavt7qhhfdymmsgwd50xxw4j53xkq2u5gzjfxfd43uf8ks6x2k6m",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd10yfsc9y4853z5z4c28m6hk7dlmj9n2028fd795g3e7rg8w3x0wgqf84x2r",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1dk5q32dveavh8klsm6rya707u6jfydmjr4j8r8pc6kcd9h2mxwdqwne9kp",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1a2g2nmphdnll0qxy74f55ps4zzcwcugpd7dhksjvyk5vfjvgfc8qz9mdrq",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1zmqe3xgufny4c8s46km3egjwlwqwf0l2tsvywq87458zgdl6cnjqhhk0em",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1544vtg3alehsavpunnx0dy36ugdvreyujxcchkhtvlm5jv6mjfkqdv5u88",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd10pvvcu5yklyztd74ga7pulc44t6gk95lz3lrpljq4kfxz7myf7dq7pa52x",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd18l069l2jawtntw9t5dydet9fsqpd2f0f3s6ygf9wj35aj2zpqxmqxl3m8d",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1l367gk00cn4jgjad0cjduwtp7y4r7tj66h5y6zlswuznv86082lqjlcfhl",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1g0f65twyqywrkcxszz44njvxzpz2mrvku5ty35zsx42p9nsmaxeqljx9ph",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd16exx9s889nt0av5ck0fdnqm8dndeexvn3eemadsvcf8ej77q70xsz86lag",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1fkfsv4zs867ne49kwkasu7tk7vp72glsuun3yhtzrz8ad74tkkqsm87lyg",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1uc3qq5wfkhh3rzazc0n7ggw0evmr3z9nvwrx2wu8nuw5qevf2fkqkdsgq0",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1sszu08x48w9vn9nzs4cxzam7uj552s6huf89lpeac5eh640g8xfstyywru",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1s7rg6czp44wmkq3kpq8r2lrp9ruka4epv2qjmrw88aj8r4c7nqdqzdvy3u",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1wdr2x9wjsx0werylyw2he9znmvlm8gvxcv8art2u3te52xfg0mmsg0uv6s",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd13n03l3nndty29uqrrzdvz9kx7065dc42qqc4z9ft6fjan6932x7svate2d",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd16n3zq6k3vajg3sxq66quhmettwpmm7qhrqvj4ngf9w2ugvewykssukzwmz",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1a579y6gcsas8mds2wr8xyp5r6u3jl79ttdssspl52gpfyypntaes6t4p5w",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1cudgkt9h37uc4trpmdmkejse7ck8se734m8yw745efn7hx8uqpmq4vh6rn",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1mn94epl9fs0pc4rvpgufsxtk8kl6ll6fy0v07qn7rkh083eekpgszy6eqj",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1yg306tstup66y0m49vjy6mr2vp4vj0llhuahmkxutg35339zhy8scfu438",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1965lf3j4ar2ezkgww4vflmfp822496h7m3ae975hdd6tn653r70sgy4pnk",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd18eulau58mmeyp30qnpztlxkpjtj3tnc4638uv4fl403gtw0aru0qdfd0w8",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1csdccqs3eap80rkdjdwzuwdxslre0whnraw4xpc438l2pafhc2rs8v8ruf",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1gg85f8fk6fz0p6d364s6888czjgm5k5lle4ta6ptppnlyzu0leasj5esxg",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1c0l7vjjtr96qfggnmjp2pfltja6gkay8fj68f3zq39dz6pp2y7rqnevfwa",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1m4d0njvus8zctxksq2p7627z2yg8x7lrncgd2ahkxyrkeqr7ayrs6kc6us",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1qlf9zvzn7ldlunyd4vrv7hps56826gu60m4vp8rzuxc3qmdcad2qunjg8w",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1f6effmhpezxytegm2fq6jqghddqscys8ak3d3kc4ml24e3p5xmcsaasdvz",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1683yjkw6qtygn447wj2khccxvv92sc3jlxtxfwg3ndpfpe46tjlqavwd9e",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd18n5y3884pdkeq6gl0wng22z2yqexhemwkyewcksesn2vgmgcqxes0e93cc",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd12ypyg7tkjzvfj476yekx7u4yk67vvx4ljspafxuzyrgxnmgg5w4s8tedmt",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd16fvr0yk207p4jz38xrpwtf7gxfzmqqphwsdlcrpjxtuaxrvfzsts9dqjhj",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1ggr9jqutgxvpeetvnhnjmvmp5epmwrm4nsuauhr8qr8nxpr3u4dsah6j2x",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1aa23u0qzfnnrdursgejgnhzu5nhptryppg7swh3pduxhxcyq2qcqpxsjad",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1rwer9d6n6u59v397awltk75wqvkvjx8az65qj9ul20nr8uymvh4qneyap4",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1345eq07g5kx2pcuvg4g5cumjng5cm9fky3y630layhvgdkm8ww8s9jqrud",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1qzlxw34d2280nqnvnrlycqd3ckgytstrnuqg7v8jxcl40hl4k8usae7wm9",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1spmlfsxl67ysmus5vjd8awqxymqeg5mzy723cqxjxc2evmlrlv3s9z9kje",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1ca229l5d7369yrksyrrwm88jss7zdp0t8navavsy3vxt6sx7metqz5f5c6",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1s8rjj6en2d8j3vw7f357nkd67kss0x3jyaylm58hrrvrd68mejes8wvccn",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1d4rlzfmn5293vuuzyhxnfk7fnv9qp8faf2jruqhlrx5vlxyh06jqsnts7y",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1fr26qn6fdsc3v7h00000jpfaauhvlr74mlyfewsdyhj0tjzx5p9qxey4wa",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1ep0z42pjmrkfxs2eeqsz42ssuc6n83ydl7ytjs9q80zdhy5uj4sqwv3fnk",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1utx9z0zsx3mhhl86myacw9r3kuyc2uu786sawa3tp56t5hfxx8ws8eyrhr",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1sy3n408j20jtm9z6gj6a2npq70rsl4ad43je9m0qu39vt5lg25uqn3nt3q",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd14wufmndkytf5j2nyfdctak5m20q29xtmuk6khesw0e78fkwup32svr29kf",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1krpuf7ushfu8dceadsqdahe2ltsrmssk4dhkhek9p46x2tus9qgqjarpxm",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1vtjgsnjml9zutdff8dcz0nf9cnlgwxulgwezze5ptaxgyzrxz0pqe6gyq5",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1e5ynvdyep8rg4nrd6v0yj8umu0njlksyzyrvnz37u7cetnrh8wzstmychd",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1s3w30kj8sscwyfmqg7p7da8dn9fs3mxck552rvwlms6mppc0ws3sue3t45",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1v9y4fld53cyswe33wv3awvh7achwar70643pve3mfg56q5lpjuts4hg4zr",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd156cg58wrr4sxf9mf4uxuazwn6tg4ah2q4h8vv88drw89nhx3p2qqcalpdz",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1dc7t3443sz5yk79ls6ztmycl8lxargj3wkzdc9894fqw0k0xatuqky7u06",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1dat5yt6zsumgvq60qjcej3c727pplnalyt5t52226s66tacy2x0qq20n3p",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1gt5kmw7gj3h4x0nrjtxk6cc7xp069756s9k9m7czpsmn5zh7m47sgd5452",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1us0hha9kk4fpsn9kyatwhen542z6a3lkr5q5mark76y9g0p0t6zq0zercx",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd16xpt2sf4gynv866lyxjdvsu8atsqj25qpkrd0vjz8raqcvkr88xqtdzujx",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1r3vvsgajxvfs5za2qwhjs6fs3afw5tv68r62fc6f0u8udlgjfzxquwl9p6",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1kcuj67ad9ym9hchur3lpp63cx9a2ljxmzxsqfxvpa9l402r6dedq8d60tv",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1efk3vr586qk4633wephl8s0gscwerprnqcgs8p52n38na9sg9ggq3n5rmu",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1qtxm907ut597y54he9hcgsg6yrus2m3vrzvmuarsf0yue5zz7yeqne4efx",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1mmh2j5y8esv2tmmyeau3hr4xa2u2te3zc3j9wumn3v5vm8uvsczqnucj5l",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1pt8aw6jwa6s3c38lgfuh759xnzq9rm90ctssnlgcng66wquw8tmqzhx4jt",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1c8ch98qy6vfeym9gknp3d3lfeh4luuhsk8m8lm3pwp22y9s5jkgqa62kr7",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1asypgadxff3p7tucx5900q0ft8q4nfxjwmu7ka779khadwj36d0q8cxhma",
+    "balance": "2213310379016709587"
+  },
+  {
+    "address": "erd1tde3k93rxtwmcesj5sjx8yywm6s25vxs07yllj77j40h9q8cpdsqe4ch6t",
+    "balance": "2213207222593811893"
+  },
+  {
+    "address": "erd1zzf82280d4kpe2f5hl0mze472qnmnvjgv9up20p2a353xu9fw9hsph0a94",
+    "balance": "2213144719435681815"
+  },
+  {
+    "address": "erd14pnzl8fkskl40wu4n5xtjer43sx6jlmny08kdz6hgl6s7qr7yvmqlspkgh",
+    "balance": "2202243827121626039"
+  },
+  {
+    "address": "erd1lyn7a8lf3v9d3gj62n0drgh5j9nvgk55mddu5n5tuvdz3u0smxrq9r6glr",
+    "balance": "2202243827121626039"
+  },
+  {
+    "address": "erd1zfw9g83kn5j3wgdj77hpam2msktyr2503432dw3cff4d77r4z9gqvfrjvz",
+    "balance": "2202079728253066282"
+  },
+  {
+    "address": "erd1hhjjkf5e8c659lle0y40ps7q2tkz8q28etafsw0akj26nr30s48suk64k6",
+    "balance": "2176989080507966323"
+  },
+  {
+    "address": "erd1xertv0r8q36ys94xhvraak2flqjcrrdqlfqap6m54zgzs6k2tkpsrk6xcr",
+    "balance": "2169423765014588354"
+  },
+  {
+    "address": "erd1vcl2lnzurtm6cuvfqm2emm4m4hu7c4shzznnrezpsvsumv2pwtpsfmmgcu",
+    "balance": "2161540034547978728"
+  },
+  {
+    "address": "erd1yahdwuq8l4xs77vt94w52za0e328vmf35htjfx03lxjrz27lwd4sd6yamz",
+    "balance": "2124476084185282355"
+  },
+  {
+    "address": "erd1htru9nh0wd3arc4md634yugrjqlyekc4ahvke6trl62wuu27wsmq7pj8t6",
+    "balance": "2121810680416057684"
+  },
+  {
+    "address": "erd1ez2a40wqazyuxsslh34jxxn69g88ckcrx336py9sk7np7l2rj9xqgz6e5h",
+    "balance": "2116125395789880950"
+  },
+  {
+    "address": "erd1s6j5vf2grq8sq6lz5ndf7re7um65vqkvwxuq9c8jl8trlmtz6ggqswytd8",
+    "balance": "2102644860065874107"
+  },
+  {
+    "address": "erd1ptdh5mfweyqfg5cm7gz9gm56q6tt7l4jpvnme5zg857m88ga67rsdalqz9",
+    "balance": "2102644860065874107"
+  },
+  {
+    "address": "erd1j2qfwln3vzntwp7gc2m2j73sh8gndg9lgngfu7f7kgh94cfk2sdsejupjf",
+    "balance": "2102644860065874107"
+  },
+  {
+    "address": "erd1emc4q2mawgczjwd8axqacrwssekzy0qupq5qcl7kfxf4ffx20ekqcs5hrx",
+    "balance": "2102644860065874107"
+  },
+  {
+    "address": "erd187ex3daxdc20ym7s5j8deezfmnnvy8308xhj9gvl4gzekgwul28spzyasv",
+    "balance": "2102644860065874107"
+  },
+  {
+    "address": "erd14ufjppnygqwa4wm0wevqj032kwgv3clrecv2zv7u65y484zckarqzqvn99",
+    "balance": "2092642512819428243"
+  },
+  {
+    "address": "erd1z6w5rfnvypfk08jzxaz39w4eufgne9h4n4skyavw0anundz253jq0rxl5j",
+    "balance": "2091824753650316419"
+  },
+  {
+    "address": "erd1rmreaw5lc87hkry5tsgvr7j787v7yf4wlwfn8g6vu78tzh3fjshq4zc2mk",
+    "balance": "2091126055032485181"
+  },
+  {
+    "address": "erd190ampkwhuzvnmcfcwcxvm0qxy83x39z94de3xsngnz5c98k7pz8sck057s",
+    "balance": "2066306822279958756"
+  },
+  {
+    "address": "erd12cnxcv6v862cs4lwygc7rdgt8g98ffml604a4n29ffjsyuc07l7q922v78",
+    "balance": "2049594890998888140"
+  },
+  {
+    "address": "erd1wx6hu9aflg4mt923xpyzkqf9xgry4ay6pzmxhlxzexf5n9n06dyq5cxet0",
+    "balance": "2045102553475786814"
+  },
+  {
+    "address": "erd1h3a06m9mzkmrdmxpc9xz520j9wu2v4ajs8y22yz5yc42z2gu9d0s8tg73j",
+    "balance": "1991979341115038628"
+  },
+  {
+    "address": "erd1z4uev5v9v0avsu8qffad07j62fme8g3pyrgh2l7c4z3z646yyfcqazlmuf",
+    "balance": "1991979341115038628"
+  },
+  {
+    "address": "erd1dfqqscnlrr8vukl0rk7t7s0w7a02zkcyle8mfaphr7sugkq6zjqqwpap40",
+    "balance": "1991979284774595637"
+  },
+  {
+    "address": "erd1z6rzs7f4zv5qjs57lyqucujwua2kjqjkpl5g69m0lm2q4qqcx0kqwhel49",
+    "balance": "1979996551209334784"
+  },
+  {
+    "address": "erd1hm0m698f30sf25xyn69r9ec2qq54fyuzvjxqyz7r3yqmdn6ngq5s8ugqkx",
+    "balance": "1936646579799047462"
+  },
+  {
+    "address": "erd1p8ppwm2y0trlxxkkupar77vqf32mgvvyx48m2wjva7adv87kuceq053yh3",
+    "balance": "1881313822164203149"
+  },
+  {
+    "address": "erd1p29teymdqh2ks8y2nxac6243pvp244p0dhd0xp8f2hurve6ahwgsxyw438",
+    "balance": "1826231662454821963"
+  },
+  {
+    "address": "erd1v73v2taznuv7u4dnxdm7kc7287a6xc7mhl4x7c8a9cuwfsq2zqqsq5xcue",
+    "balance": "1798800352349003021"
+  },
+  {
+    "address": "erd17ge9mgt8506ryzerultzj9k03f6vwvzklv08lqwthfex7s0kgeuqtmlz58",
+    "balance": "1774195436609374412"
+  },
+  {
+    "address": "erd1edjee2pxxcrm8nqp0jf5dsws83x4gp7yzlmxzrncsgguda2qe4aq4jzwtc",
+    "balance": "1770648303213367669"
+  },
+  {
+    "address": "erd1jteca6rlav7kl9hn38mftn5jf9erysta2ke23hl6u4lvcdzy4yms2qt9c6",
+    "balance": "1659982784262532190"
+  },
+  {
+    "address": "erd1mengwm02gn823wf48gvz9fs0rk8qhyvlugaum8dvjnfnvskpsz6sfze9fn",
+    "balance": "1659982784262532190"
+  },
+  {
+    "address": "erd1n2lxhsfrd77evcnevsypqejyth4pqutnzffqsr6w387dep6em3usmdrn6r",
+    "balance": "1659982784262532190"
+  },
+  {
+    "address": "erd1qy3kuyg6zyhzctgzc8xefwts80zg9huafzgcynqvahd6z9hgx65syecslv",
+    "balance": "1659982784262532190"
+  },
+  {
+    "address": "erd1was56vzhndnkx0xgwhj0l8rkuuyxuxlqhns5prpa7xwnx70ngskqru0llh",
+    "balance": "1654500300715189115"
+  },
+  {
+    "address": "erd1c7jg5lkfjxsk0y32td5z2f4edh7r8u0pwy0k67evzmeem3gzwdxsvlukc0",
+    "balance": "1633842025439192372"
+  },
+  {
+    "address": "erd10xashgvpacms47lrpvuqvnf0nnr42smskzmqzh3yknrhxeqv5vnq7ksapq",
+    "balance": "1586217543714161320"
+  },
+  {
+    "address": "erd17kp5ur7gnft79829papjntgkq9zr7yv7sdrgp5fdrmg30l4wm4jsfjnu42",
+    "balance": "1576977186936014361"
+  },
+  {
+    "address": "erd12flufjw3yf5zh7hwajttup2gc2nndq3ym7u58g8k48z504e9w4zqgh9k8h",
+    "balance": "1535461021041055112"
+  },
+  {
+    "address": "erd1x479hr90nttnnpggexwxqkfnyzsafcy568tkpn089hvcdshwy4yschd8rw",
+    "balance": "1512098190909887283"
+  },
+  {
+    "address": "erd1rr2m5fu6s3kx9k5arj4tcusfj96x69zlj92vn4n4cm07z6v5kmfssg7wzg",
+    "balance": "1383318986885443492"
+  },
+  {
+    "address": "erd1mdvj4jt6hv83pedd080zlvlug2raax3u97dv6y08qnexwm0qkcwqruh0m4",
+    "balance": "1327986227410025752"
+  },
+  {
+    "address": "erd14ztdjd5a3gyn7f5l0jn6m2yuqsxlkr8w4z0jrfjtcygjm2k8w9wsec8xcs",
+    "balance": "1316349021600855997"
+  },
+  {
+    "address": "erd17tyyjqztzxqnyvfsn4zdyxth2me06st5455kl5hhjddrvjrfmdgql5szxg",
+    "balance": "1283118759566121903"
+  },
+  {
+    "address": "erd1yljs7ue9kqzgnmg4xd3vu29667thjka268jquhvugc0f9fq8t9qswev4qt",
+    "balance": "1275159200334456894"
+  },
+  {
+    "address": "erd1hr9ycyrkt3uv5aq0g32m8tvsjxa70h6amfg6yt6xptylndr0llcszxmfdh",
+    "balance": "1261130181026040643"
+  },
+  {
+    "address": "erd18yfstx8se5sy0cx6eh66wmccn5vj54dq05ukd8c78ll3w0pns4cqxgjtje",
+    "balance": "1256161025702395449"
+  },
+  {
+    "address": "erd13qf720a8s3309wwh7dt59ljcgpz3c2sm9u7hlwkztmutx3mf7ukq9nzlhn",
+    "balance": "1243912191273569620"
+  },
+  {
+    "address": "erd1622wqsnpdkwhzr3nxfv0673pdt2cvqq7ffjw9mvlpju9822dac6sarqw2d",
+    "balance": "1236301663527029731"
+  },
+  {
+    "address": "erd1nam8575svc0gsx76zwqle9lx54tnzk9lqjgmwd9n4ham67qdkyxsna3664",
+    "balance": "1177246970125803264"
+  },
+  {
+    "address": "erd1zpfvuj98av607p9797cjxh7qc3rwl80ll56kx2lgeslfnk77fxtqzy4yau",
+    "balance": "1120044922338303624"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqltxu8jkx0ceacv3g9fsassmzq6zgvtjeah0sa4epw7",
+    "balance": "1107124306461347802"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqz5yqdzmgfheewf4pu0qwnzweyca9cwwsah0s95g75d",
+    "balance": "1106662527961540249"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqrp05ckndamy975esf9wcpkvme4mgycvnah0sslw7f9",
+    "balance": "1106655189508354796"
+  },
+  {
+    "address": "erd1llw977c9srpf7rthcq7lqkcn0azf259mqnhplvpvlqz2230a54rq2nn8uz",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1qfhh69xcprr3ll6zl8epwrlv9dpmng40nl5dc02x36p62xpa03cqg544hp",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1yad020tw2szd0m4esh5mj254sgav0hqh753u0252knl6mvx4slvskkpw57",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1vk9qk3nlqezdfnvtwuqads3n6g62rx242xfs59zr0qyeesmucqyqur0eta",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd16nzzg5l9u3hr0wackp99k46nxrz26qrshwj6qy54lm9kp3f43ulqhzmgzk",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1xmmueeu0wm3gyagqtdkh9v982da8l9w738svjvgxmuh4zvg5aw8qaddxxg",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd12qfrg0ym2l2pdx965r9lmrjrjmhncufg8atlx3z9sumj8qnsfu2qlutpcp",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1wasskyeuf6aupg0jdpfel4lla5djtr38kmmwxzpa7a8569mw0a5q0e2szw",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1fyhf4ngdh4qnhwzwvuq80j9ymea44pqu24faqvcx4zltr46drq4q4g08d7",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1g7frykxwhy7drrfrt9676cfz26w4s9xdu99j9dmafkdj2jz72z4sqncu5j",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1gr95adgnr6z8p053g2z98sntazj8klwx39heum87em0c554fsysq7prlt7",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1tcvfu6zwcu340gjehgxkemvuctw8vmpdql2durwgqare0kq2euzq2qnhpe",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1jegets5urkymjgzz0dltmztjqj4dksvrw28yghptctjpm7pzk9uqwzfee2",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1kvejp2zd5hzzpdayr5dd794pqm4350hldwhp2dd88hh7x4nvuksskx8jwt",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1dezm4y0swjut4xydp4lep8d2qssllpsracxmfehq4z5pxuftmvlschkv0r",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1fnke65508erflj4uyqjc325tx456fq2g5y44u6xhucexynpgtamqtkgjrt",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1u8j90mxv4wvdj265nffuuguwl4gw8e8mvnkuhd0tt34q8fdc45qsg25jyp",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd1dsk40f9qk3hl0trkvrs6fdtckrrheh9ltcgc3s5jfr4erfsqefkqhpazln",
+    "balance": "1106655189508354794"
+  },
+  {
+    "address": "erd14srnzkvu2ztem8tj3atxwc7nyk76gxegwj82qnywhzgp2768mufq85css8",
+    "balance": "1096531497038910580"
+  },
+  {
+    "address": "erd1cfyadenn4k9wndha0ljhlsdrww9k0jqafqq626hu9zt79urzvzasalgycz",
+    "balance": "1084767983668835825"
+  },
+  {
+    "address": "erd1zgk4e5vhge7g97patlv0znm8ptkh5ptt5crrmwgutz5c4mgjskms2lzqzl",
+    "balance": "1084522085718187698"
+  },
+  {
+    "address": "erd13d7mrf63emmf0l9f0fvnygjtxlw5tklsc7fr9x9f095yvu6k0llqfm4c38",
+    "balance": "1084178293257169464"
+  },
+  {
+    "address": "erd1ud6cnejtj5wm0r8emz0fu2t8v0hdg09seedwea0nkzpu76cr3vhq7js0ms",
+    "balance": "1081948977287645398"
+  },
+  {
+    "address": "erd1l6ryjfwax635vjmnych72qen9mg8pmvchvll79gsx5f5e8g75y6q6fs0wx",
+    "balance": "1081647891171437999"
+  },
+  {
+    "address": "erd1a3uyvey0dxmx7f5f0zgsq62pntq45gunn6wrs2waq437djcqgtes6hsckk",
+    "balance": "1081571561481662936"
+  },
+  {
+    "address": "erd1ezcm9rdhuxlvn53kvpmf9q7zh62hnc2xvn677juaeps4jefsn4fq93nmc8",
+    "balance": "1063155372937193965"
+  },
+  {
+    "address": "erd12xspx8yr9gv25nlemkv3pnsa49w9zutwd60w4xcfln2f8hrm500q5adl8m",
+    "balance": "1053408099323078311"
+  },
+  {
+    "address": "erd1wf5kaae6r00t7gqz6au3udy2t3gc5p9ns6e40qqvw3glma5yl4uq46cr27",
+    "balance": "1052083360169080978"
+  },
+  {
+    "address": "erd1kkk9x05l2sguf57u45mg7hlrhnspcmmw9lnrsjyh99kzdcjjysyqyh4my2",
+    "balance": "1051912209994678456"
+  },
+  {
+    "address": "erd1ke78el289mt2ftkzwrpwgy6s5q6y5djgk0g3z73lvfxxm9kqfwnsnvdyt3",
+    "balance": "1051130555713177094"
+  },
+  {
+    "address": "erd1zxxhr0fyqvfwdhcjvcxmwe2zhaugjg0w495avck8hyl7cq63v7hqagqnce",
+    "balance": "1047681823619743864"
+  },
+  {
+    "address": "erd1ms6ylx960spd34g7mqrjw8ghe94nn73tnmmm0yk2jra6a3k763xqmz02y6",
+    "balance": "1026480363727579872"
+  },
+  {
+    "address": "erd1tpwt6440nzntujvplwrw0tsxf323zyvqnrvcn5ju07ceqhfyrmuq8craj6",
+    "balance": "1006471528028596732"
+  },
+  {
+    "address": "erd1xc9tuln87xd2xsceg6vqercgep8325tgalm89jdszxghlde365xq2uwkwp",
+    "balance": "995989670557519314"
+  },
+  {
+    "address": "erd14qnuf4v0rndu8aan0uuwd2vz4qag7204jf7cnzqwfmsav9nu2l3s295azt",
+    "balance": "984752235127730119"
+  },
+  {
+    "address": "erd1hywjmg82llhuvp0z8nsmxzs6mz6w4jcue94he365yqxwqm2jrp7s27ja8h",
+    "balance": "978750678034295316"
+  },
+  {
+    "address": "erd13ngyyfw098nlrj86ymk5cft3s73fnx7vxwm8ttukz7fczrye24rszq3922",
+    "balance": "936959206491630505"
+  },
+  {
+    "address": "erd1pkdgxk8kmwu8qz6t06y2cy66v3nr5newe4p4emztjeyhn80elyhqa9a92t",
+    "balance": "935792704526095560"
+  },
+  {
+    "address": "erd1e0kkltwrlajaz5zzrgpjnlhq9w8685wvlv4pnwk66e8srtxqd0psxx5twv",
+    "balance": "927516746345737535"
+  },
+  {
+    "address": "erd1xrxar2vep3pucd4hff6zj0md3aqxxylf76nvhywehfu5tryqkx6sj5a88d",
+    "balance": "925906420503783360"
+  },
+  {
+    "address": "erd1tfmw77768d5fjjgrvyath4mv7eg7kquaf5wnnrkj30gfxvmy9njqn36ve7",
+    "balance": "925875980538305662"
+  },
+  {
+    "address": "erd1wztqq8sx2dwqt2mjzhusnm2chnx4rnsdvu69nrjeavruaesjlupqjuvyz4",
+    "balance": "924712932750193280"
+  },
+  {
+    "address": "erd1twaqkzqvtlmvheurxtkmm3xeystgq6de3prdr97h63sfrga86z9q4f7gqz",
+    "balance": "924242559120516057"
+  },
+  {
+    "address": "erd1ccfaxzlyzfd69hkf7hzjcwzu86pwkfxwe4teslpevz72hjeeqafqrj6fts",
+    "balance": "915956372631564682"
+  },
+  {
+    "address": "erd1f6lj95fvpz2k6kehek2ttlc49u3t6qzhvhs3jc6ne9vkcrs9ceds7y2xmy",
+    "balance": "905340862972004334"
+  },
+  {
+    "address": "erd1vva8adf3vzydvh9wfrjt2km6vj9037z0drkxvrcca07sa4878esqzc69jc",
+    "balance": "901189758365179972"
+  },
+  {
+    "address": "erd1l72jvnphhsf5kfkl65tscvwq5qmwrzu4xhjadt6pap6y57h3vkwswpn6wr",
+    "balance": "899676955733464463"
+  },
+  {
+    "address": "erd1t206mt52qg83fgtx7c85m8e5sruweseq4ext7s9tv6um5lt87r0qwwf58n",
+    "balance": "889147756750030562"
+  },
+  {
+    "address": "erd1swpp8zzym4p8lhud8hh60vltvkxe3r4j55en5nd5gzq3t2y9m89qdzn2ry",
+    "balance": "882257201130360082"
+  },
+  {
+    "address": "erd1rq95w83rl7yfzamnh3zzv0q2gqan3rz7cj7y33w67clff4yhn9eqfkew83",
+    "balance": "784276432358011557"
+  },
+  {
+    "address": "erd1kyqmz00xfw6u7u67akpj925g6fnedmv75949kxcs3g7kefg9ev4qnnngxk",
+    "balance": "783136339245281003"
+  },
+  {
+    "address": "erd1x63n5hmm85uece473trejknqsn24cmkf3m5v3wh25tgqacz7nhqqj0ulnz",
+    "balance": "774658632655848356"
+  },
+  {
+    "address": "erd169l9mc7e09aeda6w3cfptt6w5cwk2qjpyn5upkaua95hf5385jxstxsmvs",
+    "balance": "774658632655848356"
+  },
+  {
+    "address": "erd1gpftmcm453smpxdcv2gam8kp36dz8tehm8v52nfdgnq2anpn5g9sjrhv3p",
+    "balance": "709267072888826588"
+  },
+  {
+    "address": "erd1ehfa426ytpmxtg9hn7m4ll6xjlc2x0q7upnzk5v7rzu6jxg868xs6wp7k3",
+    "balance": "685611112794730146"
+  },
+  {
+    "address": "erd1rumxt89sua6vj2l7d8xxyjuc9whdc6grkluekr98xlhjdqa02xpq555dvp",
+    "balance": "663993113705012876"
+  },
+  {
+    "address": "erd1mryc0w7aufsg85te7kt4jl857wl8xkzs2k4g5yvygtl8x70zvnmqmg0h9v",
+    "balance": "629700311768011809"
+  },
+  {
+    "address": "erd1heewknmyf6je7f22z9uknc7vvttfrwnclf73tnpnff6cayxg6lgqqcukj2",
+    "balance": "571829146660908390"
+  },
+  {
+    "address": "erd1cwr2hr9gnyccf3p3z49l9su6pt07zgppw4rg6f9jp66g48rmr59q08r05z",
+    "balance": "564389841240333465"
+  },
+  {
+    "address": "erd10s45079mcfajp6tjcxe8h5unnku6j96dzhn29d7hp9u9la9karhsew7xll",
+    "balance": "553709006527584195"
+  },
+  {
+    "address": "erd1n6huny0q0fx45vecz25f862acz0700lgarnx88r6jzds4tf6hyvslp8gsn",
+    "balance": "553327594754177397"
+  },
+  {
+    "address": "erd109lvyjsa59lg8xftqlj2pkuy5qqn5a9e5jf9pk66vm5wer3my3zst97hxl",
+    "balance": "527367684249514214"
+  },
+  {
+    "address": "erd1ypk025jwf9nf4gg5knxmqarckg46rn33ra7zz4es6vkzfur2du7qrkgc89",
+    "balance": "498670884709818797"
+  },
+  {
+    "address": "erd19pev9qr78ymcfzan50yny7vndpxrq86dx97phy0eegkgs7ggzvcsz0u24w",
+    "balance": "497878815548291870"
+  },
+  {
+    "address": "erd1umfewwuqcw7fdv0x906w82m0cmzq0kkna5d5d0wn0dtvw8ez5mgqr4m7r0",
+    "balance": "496180437685656773"
+  },
+  {
+    "address": "erd1ak2df77l8rh0vj5ujfladutgjkp3a2f2funqxuzp8mrzrcy2duyqxtgx9m",
+    "balance": "474468499097767740"
+  },
+  {
+    "address": "erd1zfp6kehdk8cmphv4a22uv04s3ls2x5vy98faqzjgx0wsq84uzjgslnf4ra",
+    "balance": "469897608972770751"
+  },
+  {
+    "address": "erd18vznkh65sfsfa9wztatpp6uk9ayzx256a26zv6x29hs4f3kcxftq4epvyl",
+    "balance": "469521302826360572"
+  },
+  {
+    "address": "erd178gzhnc5mnmjhwxfx5alvmzdm3ajeetkts3amukpqv8gk3hkmp5qjmkcjs",
+    "balance": "469305809794460626"
+  },
+  {
+    "address": "erd1036xvphryefe0l7zpq653gp39sj3p8umasvcttgfdzfceqtpe3eslukrwp",
+    "balance": "462778473204525842"
+  },
+  {
+    "address": "erd1p64w3szmptr240xtsxslnntt7uan43mjuz6nf7wz46ue27czrs5qxxr272",
+    "balance": "445323756962922970"
+  },
+  {
+    "address": "erd1mun9ncjvu5qw5280xrhypk6twxvxfm3sdgp4wu0n4lnnfmuu8ctqvy8qxs",
+    "balance": "359550072016560582"
+  },
+  {
+    "address": "erd145rq33fjexmtq4xvnrx3qlnvkuymemgx4lv9vruf3946kueqxces7stm83",
+    "balance": "331996556852506438"
+  },
+  {
+    "address": "erd10ha9wsl7p8qgpm2jnmlng0mjcqxmddlxve97wy2g6x9776kv5xfs778ct0",
+    "balance": "330408644652586786"
+  },
+  {
+    "address": "erd182j3k9uvgls95nxykggah6svss4y5g5sn9zxhxhqfhl66aqunnqs97a7v9",
+    "balance": "309863453062339343"
+  },
+  {
+    "address": "erd132juypwme9026ru30vdugy8ykkfmtlx4v36wjqr7mtrq6w47ps4ssp3k5t",
+    "balance": "300000000000000000"
+  },
+  {
+    "address": "erd1h2w0p9fg5hcnlryw4eqsgq6kf3qczw602n9xsj7r4a9dqquwe6sszx2jf0",
+    "balance": "148719784303487167"
+  },
+  {
+    "address": "erd1arfrc0fs4dv6sasm6udcc2389u5s4t2mr62qnscx93z7x7dzerysaj3hpy",
+    "balance": "120626560843131021"
+  },
+  {
+    "address": "erd14z2ktkl7apxtaph29687qg9s702yxx5frwnqx8jafynjv7rvkslsjunxxh",
+    "balance": "118839732961913424"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq75ld6l3p6skl7t75hr3dtxnuc9yvmqmrah0sh94ggl",
+    "balance": "110686531478380522"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgq28qrtsu53um0rxxha8dhrrhqv5cycyur0n4s2lz3rt",
+    "balance": "99598967055751932"
+  },
+  {
+    "address": "erd1djk0kvcerwwmjkfdqc40r7j7v0wyyu9dckzjdkjymp8purssv9vq4rlfyf",
+    "balance": "90928240597693210"
+  },
+  {
+    "address": "erd1hffp800fw708fduwrws44rdrxelm88keskw5etd4levheujfyxmsxu865w",
+    "balance": "56008436176419999"
+  },
+  {
+    "address": "erd1ux24ecut04em0vqqzeqgtgnn966cssxxzcpp838e6feqy3qmkjhszhkxra",
+    "balance": "30806737609854679"
+  },
+  {
+    "address": "erd1mp2zh8ytmk4474g2e2d3fw0nu4f5ydy2r3fq9hnlcdk0g3vc5m3sc32tfa",
+    "balance": "15071638635012166"
+  },
+  {
+    "address": "erd1hza6n2kl8fqlxccm06cvp0sv73c6gy2990j27xv0ac3a46s33gwque9c83",
+    "balance": "15068616057091892"
+  },
+  {
+    "address": "erd1j5kcfktfq3xfv34ly4w8zk8q4q4kh9qqy8ajmz67mdqgu9lu565skz0thj",
+    "balance": "5694768945432073"
+  },
+  {
+    "address": "erd1nhxfj79nadnszvavse5k3p9cekwgtns9tzyxa4zjcy45qqmc3wesnkqx9n",
+    "balance": "965335033171893"
+  },
+  {
+    "address": "erd1sky22pejjm86kwedeth9q84uc6pgn4ksec2al5d8xmktx9pznw2q9xhjgu",
+    "balance": "964789125717895"
+  },
+  {
+    "address": "erd1zh624sgwlnznfz77952vss627u46nnyjc4jvzxhd7dv849fa8j3qrksacq",
+    "balance": "964783905306442"
+  },
+  {
+    "address": "erd1s4qz0c5e0sy5fv6h3wezp2a9khfm30f7qdng8t84qelxq8jk8fjs2y6ntg",
+    "balance": "964772063042203"
+  },
+  {
+    "address": "erd1gfmxq38xfjzz3tx47kjeq3ay3ncfm79w4sdt3t7jr55u8s33zzaq0c8rzh",
+    "balance": "964727665803731"
+  },
+  {
+    "address": "erd16uujse74esv0epe7s04yzmxryp3zmmspjm2c9eurw2nwvcuep36sf9csjn",
+    "balance": "935645315610552"
+  },
+  {
+    "address": "erd152m4kna8p6rjfw5dtup84ntfjgdsc2lqqwa3jv5w8l79u2z6j3rspr4dxy",
+    "balance": "99729865544487"
+  },
+  {
+    "address": "erd1ddk7zxy5wfdgvyrf4mj8t0ppt5tgffd5jaeek9cvz4dnvfjre3zqpx3e0s",
+    "balance": "96477804230231"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqhwy4zwanu52u5f39sg7arf3mmdspecumah0sha3wfd",
+    "balance": "42532356589"
+  },
+  {
+    "address": "erd1qqqqqqqqqqqqqpgqglqtgt5m50njg6le3calj6hknfuuta2tnrzsuh2qlc",
+    "balance": "149"
+  },
+  {
+    "address": "erd1cgyy3ddhkye0ve0ewmaflak3c3jnpxw9qyf4fcrzwec28yvccg4sxxw6f4",
+    "balance": "79"
+  }
+]
