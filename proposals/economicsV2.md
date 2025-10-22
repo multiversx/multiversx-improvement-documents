@@ -1,5 +1,5 @@
 <!---The MultiversX Economic Evolution--->
-<!---The new economic framework redefines the MultiversX economic engine, complementing the Supernova technical upgrades. It focuses on creating a perpetual security budget, aligning builder and user incentives, and driving long-term growth through a self-reinforcing economic flywheel. This new design stimulates network growth by transforming on-chain activity into a direct source of value for EGLD, creating a self-sustaining and compounding economic system.--->
+<!---The new economic framework redefines the MultiversX value engine and complements the Supernova technical upgrades. It establishes a perpetual security budget, aligns builder and user incentives, and drives long-term growth through a self-reinforcing economic flywheel. By turning on-chain activity into a direct source of demand for EGLD, this design creates a sustainable and compounding system of growth.--->
 # **The MultiversX Economic Evolution**
 
 The current MultiversX economic model, based on a capped supply, was effective for establishing initial momentum for the network and distribution of the supply. However, to secure the network for the long term and ignite the next phase of significant growth, we must evolve. This proposal outlines a transition from a model of *passive to productive scarcity*, creating a self-reinforcing **Economic Flywheel** where network utility directly drives value back to EGLD.
@@ -9,7 +9,7 @@ The current MultiversX economic model, based on a capped supply, was effective f
 
 The network aims for a 10× expansion in liquidity, 10× network revenue and 10× token demand in the next cycle. Current float is high, usage moderate, and institutional connectivity limited. The new model is designed to transition from status-quo to growth-momentum. By aligning incentives for stakers, builders and institutional partners, the model seeks to lock supply, stimulate usage and create recurring demand.
 
-
+Here’s a detailed overview of the entire economics model: [The MultiversX Economic Evolution](extended/economicsV2.md)
 ## **2\. The Core Proposal: A Shift to a Growth-Oriented Economy**
 
 We propose a comprehensive overhaul of the economic engine through four core pillars:
