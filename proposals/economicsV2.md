@@ -1,6 +1,8 @@
+<!---The MultiversX Economic Evolution--->
+<!---This explains the evolution of the MultiversX economics--->
 # **The MultiversX Economic Evolution**
 
-The current MultiversX economic model, based on a capped supply, was effective for establishing initial scarcity. However, to secure the network for the long term and ignite the next phase of significant growth, we must evolve. This proposal outlines a transition from a model of *passive to productive scarcity*, creating a self-reinforcing **Economic Flywheel** where network utility directly drives value back to EGLD.
+The current MultiversX economic model, based on a capped supply, was effective for establishing initial momentum for the network and distribution of the supply. However, to secure the network for the long term and ignite the next phase of significant growth, we must evolve. This proposal outlines a transition from a model of *passive to productive scarcity*, creating a self-reinforcing **Economic Flywheel** where network utility directly drives value back to EGLD.
 
 
 ## **1\. Why This Matters**
@@ -63,3 +65,4 @@ This new framework is designed to achieve ambitious, concrete targets:
 ## **5\. The Governance Vote**
 
 This proposal asks EGLD stakeholders to approve the adoption of this comprehensive new economic framework. Approval will authorize the phased implementation of the new emission and distribution model, the updated fee market, the DAO-governed Accelerator funds, as well as establish the RSI primitive, setting the foundation for the next era of growth for MultiversX.
+<!---erd1ghg3vusfhy0wx92kvafw2kxhu2pdz8rrt3kr6yd3zapfwwwfd94qvnkddh--->
