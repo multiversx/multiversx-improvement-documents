@@ -5,7 +5,7 @@
 
 This paper outlines the evolution of the MultiversX economic model, transitioning from a capped-supply model to a tail-inflation model with a burn mechanism. This new design is engineered to ensure the network's long-term security, and stimulate vigorous network growth. The proposed changes target a set of concrete and instrumental outcomes: (a) attract new liquidity, (b) increase network usage, (c) generate material revenue at the protocol level, (d) create an economic model to drive reflexive value accrual and (e) forge a direct, unbreakable link between network utility and a perpetual demand for EGLD.
 
-MultiversX is lean, possesses runway for several years of operations, and is among the most technologically advanced Layer 1 blockchains. Yet, every network must evolve to reach its full potential and there are moments when bold, coordinated action can spark significant growth. MultiversX stands at such a moment.
+MultiversX is financially resilient, operating with a lean structure and a multi-year runway. Its technology ranks among the most advanced Layer-1 architectures in the industry. Yet even the strongest networks must evolve. This is such a moment, one that calls for collective focus and decisive coordination to unlock the next phase of growth.
 
 What single, decisive action could set the entire economic engine in motion?
 
@@ -138,9 +138,9 @@ The EGLD generated from annual emissions will be programmatically allocated acro
 
 | Allocation Bucket | Percentage | Purpose and Mechanism |
 | :---- | :---- | :---- |
-| **Simple Staking** | 50% | *The goal of this bucket is to maximize network security, ensure competitive attraction of new capital, and create an effective network token sink, incentivise intra-network spending.*  Rewards passive stakers and delegators who secure the network by locking their EGLD. This provides a baseline incentive for network security participation, similar to models seen in other major PoS networks. The total annual EGLD allocated and APR for simple staking is projected to increase. |
+| **Simple Staking** | 50% | *The goal of this bucket is to maximize network security, ensure competitive attraction of new capital, create an effective network token sink, and incentivise intra-network spending.*  Rewards passive stakers and delegators who secure the network by locking their EGLD. This provides a baseline incentive for network security participation, similar to models seen in other major PoS networks. The total annual EGLD allocated and APR for simple staking is projected to increase. |
 | **Growth Dividend for Users** | 20% | *The goal of this bucket is to maximize usage and velocity of capital within the network to stimulate growth of network KPIs such as TVL, transaction volume, and stablecoin liquidity, incentivise intra-network spending.*  A new and simple way to enable everyday users to participate in productive strategies to contribute to the protocol activity and potentially receive rewards. Directed to a DAO-governed smart contract to reward users who actively participate in the MultiversX economy. This incentivizes activities beyond simple staking, such as providing liquidity, using core DeFi applications, and engaging with ecosystem dApps. This pool of capital is a strategic tool designed to deepen onchain liquidity. |
-| **Ecosystem Growth Fund for Builders** | 20% | *The goal of this bucket is to maximize network usage and revenue by offering growth credits tied to strategic KPIs to builders to create a secondary compounding network token sink, incentivise intra-network spending.*  A new DAO-governed fund fostering innovation and a diverse application layer. These funds will be distributed as grants to builders, developers, and projects based on achieving predefined Key Performance Indicators (e.g. active users, transaction volume, revenue, TVL). |
+| **Ecosystem Growth Fund for Builders** | 20% | *The goal of this bucket is to maximize network usage and revenue by offering growth credits tied to strategic KPIs to builders to create a secondary compounding network token sink, and incentivise intra-network spending.*  A new DAO-governed fund fostering innovation and a diverse application layer. These funds will be distributed as grants to builders, developers, and projects based on achieving predefined Key Performance Indicators (e.g. active users, transaction volume, revenue, TVL). |
 | **Protocol Sustainability** | 10% | *The goal of this bucket is to ensure protocol competitiveness, funding a world-class engineering team and a research and development department to place the network at the frontier of innovation. This bucket is not used in staking, growth dividend and in ecosystem growth.* Funds core protocol development, research, and infrastructure maintenance, ensuring the network remains competitive and robust. This maintains the existing funding level for core operations. |
 
 ***APR Calculations of the new model and comparison with the old model:** [APR Calculation](https://docs.google.com/spreadsheets/d/1A6yV3EZj_vzw65GWnQw1GskZAjbEREcMaeF7fP8x4wQ/edit?gid=0#gid=0)*
@@ -151,7 +151,7 @@ This distribution model ensures that new issuance is actively channeled to secur
 
 **Evaluation, rebalancing, governance**
 
-*Every year, the distribution model is re-evaluated, as well as KPIs and targets will undergo a governance vote to adjust distribution for the next year based on the newest available data. Through this process, allocation buckets can be changed or removed, new allocation buckets can be added, and allocation percentages can be changed based on agreed-upon targets. A full governance vote will take place each year, with an annual report for the existing system publicly shared, recorded onchain, audited, and verified.*
+*Every year, the distribution model, along with its KPIs and targets will undergo a governance vote to adjust distribution for the next year based on the newest available data. Through this process, allocation buckets can be changed or removed, new allocation buckets can be added, and allocation percentages can be changed based on agreed-upon targets. A full governance vote will take place each year, with an annual report for the existing system publicly shared, recorded onchain, audited, and verified.*
 
 
 
@@ -173,9 +173,9 @@ MultiversX will implement a fee market structure inspired by proven models like 
   * The base fee from transactions which do not call smart contracts (asset transfers, data transfers, recording data) will be burned completely.  
   * The fees for the failed transactions are completely burned, both base fee and priority fee.   
 * **Priority Fee:** An optional fee paid by users to incentivize faster transaction inclusion. This entire fee is paid directly to the **validators** (10% to the leader, rest to the consensus members), rewarding them for their role in processing transactions and creating a competitive market for blockspace that directly reflects the real-time economic demand for the network's processing power. This clearly targets more revenue for validators and more opportunities for validators to build more. With growing revenue, the validators can choose to lower the fees on the staking provider side, creating benefits for the users, to share the fees with users, or to deploy those into DeFi.  
-  * The shard split algorithm takes into consideration multiple parameters. Available block space, used block space, pending validators in the auction list. This indirectly means that creating new shards happen only when that makes sense economically for all the actors in the network and when there is demand for bigger blockspace. Because of sharding priority fees are never too high, users enjoy the dApps at the lowest cost.
+  * The shard split algorithm takes into consideration multiple parameters. Available block space, used block space, pending validators in the auction list. This indirectly means that creating new shards happen only when that makes sense economically for all the actors in the network and when there is demand for bigger blockspace. Thanks to sharding, priority fees remain low, allowing users to enjoy dApps at minimal cost.
 
-**The scope** of this structure thus creates a powerful dual-engine for value: builders are incentivized to create utility that drives transaction volume, and every single one of those transactions permanently increases the scarcity and baseline demand for EGLD. The 90% share of the fees to builders opens up a new set of applications and user experience, encouraging builders covering transactions free (through relayers) for their users. This share is meant to enable the creation of high frequency apps, activities, and bots, as the chain’s architecture provides sufficient block space. When blocks are full, validators can capture additional rewards from the priority fees.
+**The scope** of this structure thus creates a powerful dual-engine for value: builders are incentivized to create utility that drives transaction volume, and every single one of those transactions permanently increases the scarcity and baseline demand for EGLD. Allocating 90% of fees to builders unlocks new types of applications and user experiences, encouraging them to cover transaction costs for their users through relayers. This share is meant to enable the creation of high frequency apps, activities, and bots, as the chain’s architecture provides sufficient block space. When blocks are full, validators can capture additional rewards from the priority fees.
 
 \**The capacity of the blockchain after the SuperNova upgrade is 1 Billion Gas per second. Filling up one shard with smart contract transactions in one day costs 864 EGLD, which would yield 86.4EGLD in burns per shard, thus the cost is high enough for deter attacks. In year 8, it would be 432 EGLD burned per day per shard.*
 
@@ -212,7 +212,7 @@ Example KPIs for grant recipients could include:
 
 The underlying goal is to fund applications that create sustained demand for EGLD. To ensure emissions are utilized productively, several guardrails are added. Milestone based grants and Lock mechanism.
 
-**Milestone based grants** as used in growth games is a proven method where builders and the protocol are aligned and strict timelines and KPIs are proposed, signed and verified at each milestone. If a milestone is not reached, the further grants for the project are locked, until those are met, or restructured to other builders.
+**Milestone based grants** as used in growth games is a proven method where builders and the protocol are aligned and strict timelines and KPIs are proposed, signed and verified at each milestone. If a milestone is not reached, further grants for the project are locked until the milestone is achieved or the funds are reallocated to other builders.
 
 **Lock Mechanism** for unused tokens is triggered by failure to meet predefined KPIs, thereby tying allocations to verifiable network growth. Oversight by the MultiversX Foundation and EGLD stakeholders via DAO ensures transparency and accountability:
 
@@ -255,7 +255,7 @@ Staked EGLD or LSTs act as a prerequisite—a key to unlock rewards on a separat
 
 **Example:** If you have 1,000 EGLD staked and separately supply $10,000 USDC to an approved lending pool, you will receive boosted rewards calculated on the amount of EGLD equivalent to that $10,000. The boost is for the USDC, which is a critical component for a thriving DeFi ecosystem. The one-click strategies can be made in such a way that one person brings the staked EGLD, the other person brings the external capital and the boost if split between the two, as an example.
 
-**Lock Mechanism** for unused tokens is triggered by failure to meet predefined KPIs, thereby tying allocations to verifiable network growth. Oversight by the MultiversX Foundation and EGLD stakeholders via DAO ensures transparency and accountability::
+**Lock Mechanism** for unused tokens is triggered by failure to meet predefined KPIs, thereby tying allocations to verifiable network growth. Oversight by the MultiversX Foundation and EGLD stakeholders via DAO ensures transparency and accountability:
 
 * **Trigger Conditions**: Lock activates if DeFi strategies fail to maintain stables and BTC in active positions at least equal to the value of Liquid Staked EGLD (e.g., stables/BTC TVL ≥ Liquid Staked EGLD value), or if Liquid Staked EGLD does not grow QoQ (e.g., \<5% increase).  
 * **Lock Calculation**: Unused tokens \= Allocated emissions \- Distributed dividends. Lock 50-100% based on shortfall severity (e.g., 50% for partial mismatch, 100% for no growth or severe imbalance), assessed at quarter-end.  
@@ -361,7 +361,7 @@ RSI is not a recurring budget but a rare high-leverage instrument reserved for e
 
 **Clarification Note:** Only the present section is subject to the activation protocol described below. The preceding economic model section (Section II)  is treated as a distinct governance component, not included in this dual-stage process.
 
-The strategic reflexive investment primitive is a novel mechanism designed to capitalize on market opportunities and accelerate strategic outcomes. Its implementation is governed by a structured framework grounded in core principles and rigorous safeguards.
+The reflexive strategic investment primitive is a novel mechanism designed to capitalize on market opportunities and accelerate strategic outcomes. Its implementation is governed by a structured framework grounded in core principles and rigorous safeguards.
 
 #### **Core Principles**
 
@@ -468,7 +468,7 @@ Together, these measures aim to enhance strategic positioning, accelerate ecosys
 
 This proposal introduces a durable, economic growth model designed to secure the network, reward participation, and channel every measure of success back into EGLD. It establishes clear mechanisms that link activity, productivity, and demand, transforming emissions and fees into engines of sustainable expansion.
 
-Building on this foundation, it adds a new strategic capability: the power to act collectively and decisively when opportunities arise that can accelerate adoption and long-term value through a Reflexive Strategic Investment primitive. Together, these components form a complete framework for a self-reinforcing economy which balances continuity with adaptability, stability with growth, and anchors the next phase of MultiversX in a clear, measurable, adaptive, and future-proof design.
+Building on this foundation, the framework adds a strategic capability: collective, decisive action through the Reflexive Strategic Investment primitive to accelerate adoption and long-term value creation. Together, these components form a complete framework for a self-reinforcing economy which balances continuity with adaptability, stability with growth, and anchors the next phase of MultiversX in a clear, measurable, adaptive, and future-proof design.
 
 
 
