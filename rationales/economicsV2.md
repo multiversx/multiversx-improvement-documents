@@ -94,11 +94,11 @@ It drives buying pressure, reduces free-floating supply, expands market velocity
 
 We aim to unlock this through three concrete, measurable, and compounding mechanisms:
 
-The DAT: the primary bridge to deep stock-market liquidity and recurring demand. Executed correctly, it can establish a sustained buyback mechanism financed by capital markets, effectively locking 20–30% of the total token float out of circulation.
+1. The DAT: the primary bridge to deep stock-market liquidity and recurring demand. Executed correctly, it can establish a sustained buyback mechanism financed by capital markets, effectively locking 20–30% of the total token float out of circulation.
 
-The ETF: the key institutional bridge designed to serve an untapped market and add another powerful demand vector, continuously absorbing EGLD supply from the open market.
+2. The ETF: the key institutional bridge designed to serve an untapped market and add another powerful demand vector, continuously absorbing EGLD supply from the open market.
 
-The US Labs entity: the dedicated growth, awareness, and business acceleration arm, representing MultiversX in strategic U.S. discussions and securing the three most consequential ecosystem deals.
+3. The US Labs entity: the dedicated business and marketing acceleration arm, representing MultiversX in strategic U.S. discussions, bootstrapping a new attention-to-adoption program, and securing the three most consequential ecosystem deals necessary for growth.
 
 Together, these components serve a clear objective: to 10x demand, activate self-reinforcing buyback mechanisms, and accelerate market momentum.
 
