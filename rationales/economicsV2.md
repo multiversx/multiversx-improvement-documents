@@ -1,4 +1,4 @@
-# **The New EGLD Economics Upgrade: Toward A New Phase of Growth For EGLD**
+# The New EGLD Economics Upgrade: Toward A New Phase of Growth For EGLD
 
 MultiversX is on track to deliver its most consequential milestone since its original Elrond Genesis: Supernova.
 
