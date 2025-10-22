@@ -1,6 +1,6 @@
 <!---The MultiversX Economic Evolution--->
 <!---The new economic framework redefines the MultiversX value engine and complements the Supernova technical upgrades. It establishes a perpetual security budget, aligns builder and user incentives, and drives long-term growth through a self-reinforcing economic flywheel. By turning on-chain activity into a direct source of demand for EGLD, this design creates a sustainable and compounding system of growth.--->
-# **The MultiversX Economic Evolution**
+# The MultiversX Economic Evolution
 
 The current MultiversX economic model, based on a capped supply, was effective for establishing initial momentum for the network and distribution of the supply. However, to secure the network for the long term and ignite the next phase of significant growth, we must evolve. This proposal outlines a transition from a model of *passive to productive scarcity*, creating a self-reinforcing **Economic Flywheel** where network utility directly drives value back to EGLD.
 
