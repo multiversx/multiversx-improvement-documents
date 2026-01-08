@@ -25,6 +25,6 @@ https://agora.multiversx.com/t/mip-27-supernova-sub-second-finality/514
 
 **Implementation Release notes**:
 
-https://github.com/multiversx/mx-specs/pull/59
+https://github.com/multiversx/mx-specs/blob/main/releases/protocol/release-specs-v2.0.0-Supernova.md
 
 <!---erd1zjywp0pv3ga23sww2w6un8gc8q3t0xlv5ke0rq8wfl0mvx4zqv6s7de48p--->
