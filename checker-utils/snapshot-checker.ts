@@ -73,7 +73,7 @@ async function getRootHashForProposal(voteScAddress: string, proposalId: string)
 
 async function isValidSnapshotRootHash(data: SnapshotData): Promise<boolean> {
   const merkleTreeUtils = new MerkleTreeUtils(data.content);
-  const computedRootHash = merkleTreeUtils.getRootHash();
+  const computedRootHash = merkleTreeUtils.getRootHash().slice(2); // remove 0x prefix
 
   console.log(`Computed root hash: ${computedRootHash}`);
   const networkRootHash = await getRootHashForProposal(data.voteScAddress, data.proposalId);
@@ -130,6 +130,7 @@ async function main(): Promise<void> {
   }
   
   console.log("\n✓ Snapshot data is valid.");
+  
 }
 
 main();
