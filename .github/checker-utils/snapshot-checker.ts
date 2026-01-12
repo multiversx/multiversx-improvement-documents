@@ -73,6 +73,8 @@ async function getRootHashForProposal(voteScAddress: string, proposalId: string,
     const [_functionName, rootHash, proposalIdFromTxRaw] = decodedData.split('@');
     const proposalIdFromTx = BigNumber(proposalIdFromTxRaw, 16).toString(10);
     if (proposalIdFromTx === proposalId) {
+      console.log(`Found root hash on chain for proposal ID ${proposalId}: ${rootHash}`);
+      console.log(`Transaction hash: ${tx.txHash}`);
       return rootHash;
     }
   }
