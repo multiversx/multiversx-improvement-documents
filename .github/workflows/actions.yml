@@ -18,7 +18,7 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        working-directory: checker-utils
+        working-directory: .github/checker-utils
         run: npm install --no-fund --no-audit
 
       - name: Check snapshots
@@ -43,4 +43,4 @@ jobs:
             exit 0
           fi
 
-          npx --yes --prefix checker-utils ts-node --project checker-utils/tsconfig.json --transpile-only checker-utils/snapshot-checker.ts "$NETWORK" "${files[@]}"
+          npx --yes --prefix .github/checker-utils ts-node --project .github/checker-utils/tsconfig.json --transpile-only .github/checker-utils/snapshot-checker.ts "$NETWORK" "${files[@]}"
