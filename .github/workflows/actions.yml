@@ -35,4 +35,4 @@ jobs:
             exit 0
           fi
 
-          npx --yes --prefix checking-utils ts-node --project checking-utils/tsconfig.json --transpile-only checking-utils/snapshot-summary.ts "${files[@]}"
+          npx --yes --prefix checking-utils ts-node --project checking-utils/tsconfig.json --transpile-only checking-utils/snapshot-checker.ts "${files[@]}"
