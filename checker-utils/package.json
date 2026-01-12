@@ -1,5 +1,5 @@
 {
-  "name": "checking-utils",
+  "name": "checker-utils",
   "version": "0.0.0",
   "private": true,
   "type": "commonjs",
@@ -9,5 +9,9 @@
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@multiversx/sdk-nestjs": "^0.5.5",
+    "bignumber.js": "^9.3.1"
   }
 }
