@@ -67,7 +67,7 @@ async function getRootHashForProposal(voteScAddress: string, proposalId: string,
   const baseUrl = network === 'mainnet'
     ? 'https://api.multiversx.com'
     : 'https://devnet-api.multiversx.com';
-  const { data: txData } = await axios.get(`${baseUrl}/transactions?receiver=${voteScAddress}&function=set_root_hash&status=success&size=1000`);
+  const { data: txData } = await axios.get(`${baseUrl}/transactions?receiver=${voteScAddress}&function=set_root_hash&status=success&order=desc&size=1000`);
   for (const tx of txData) {
     const decodedData = Buffer.from(tx.data, 'base64').toString('utf-8');
     const [_functionName, rootHash, proposalIdFromTxRaw] = decodedData.split('@');
