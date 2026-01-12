@@ -1,0 +1,39 @@
+name: Snapshoy Checker
+
+on:
+  pull_request:
+
+jobs:
+  snapshot-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        working-directory: checking-utils
+        run: npm install --no-fund --no-audit
+
+      - name: Summarize added snapshots
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+
+          mapfile -t files < <(git diff --name-status "$BASE_SHA...$HEAD_SHA" -- snapshots | awk '$1=="A"{print $2}')
+
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No new snapshot files added." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          npx --yes --prefix checking-utils ts-node --project checking-utils/tsconfig.json --transpile-only checking-utils/snapshot-summary.ts "${files[@]}"
