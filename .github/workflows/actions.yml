@@ -18,15 +18,23 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        working-directory: checking-utils
+        working-directory: checker-utils
         run: npm install --no-fund --no-audit
 
       - name: Summarize added snapshots
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.sha }}
+          BASE_BRANCH: ${{ github.event.pull_request.base.ref }}
         run: |
           set -euo pipefail
+
+          # Determine network based on target branch
+          if [ "$BASE_BRANCH" = "main" ]; then
+            NETWORK="mainnet"
+          else
+            NETWORK="devnet"
+          fi
 
           mapfile -t files < <(git diff --name-status "$BASE_SHA...$HEAD_SHA" -- snapshots | awk '$1=="A"{print $2}')
 
@@ -35,4 +43,4 @@ jobs:
             exit 0
           fi
 
-          npx --yes --prefix checking-utils ts-node --project checking-utils/tsconfig.json --transpile-only checking-utils/snapshot-summary.ts "${files[@]}"
+          npx --yes --prefix checker-utils ts-node --project checker-utils/tsconfig.json --transpile-only checker-utils/snapshot-checker.ts "$NETWORK" "${files[@]}"
