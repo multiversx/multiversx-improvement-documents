@@ -21,7 +21,7 @@ jobs:
         working-directory: checker-utils
         run: npm install --no-fund --no-audit
 
-      - name: Summarize added snapshots
+      - name: Check snapshots
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha }}
           HEAD_SHA: ${{ github.sha }}
@@ -36,10 +36,10 @@ jobs:
             NETWORK="devnet"
           fi
 
-          mapfile -t files < <(git diff --name-status "$BASE_SHA...$HEAD_SHA" -- snapshots | awk '$1=="A"{print $2}')
+          mapfile -t files < <(git diff --name-status "$BASE_SHA...$HEAD_SHA" -- snapshots | awk '$1 ~ /[AM]/ && $2 ~ /.json$/ {print $2}')
 
           if [ ${#files[@]} -eq 0 ]; then
-            echo "No new snapshot files added." >> "$GITHUB_STEP_SUMMARY"
+            echo "No snapshot files added or modified." >> "$GITHUB_STEP_SUMMARY"
             exit 0
           fi
 
