@@ -47,6 +47,12 @@ function isValidSnapshotData(data: SnapshotData): boolean {
       return false;
     }
 
+    // Ensure balance is plain decimal, not scientific notation
+    if (!/^\d+$/.test(entry.balance)) {
+      console.error(`Balance must be a plain decimal number (no scientific notation): ${entry.balance}`);
+      return false;
+    }
+
     const balance = new BigNumber(entry.balance);
     if (balance.isNaN() || balance.isLessThan(new BigNumber(0))) {
       console.error(`Invalid balance for address ${entry.address}: ${entry.balance}`);
