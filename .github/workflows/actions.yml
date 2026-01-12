@@ -1,4 +1,4 @@
-name: Snapshoy Checker
+name: Snapshot Checker
 
 on:
   pull_request:
@@ -16,7 +16,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
 
       - name: Install dependencies
         working-directory: checking-utils
