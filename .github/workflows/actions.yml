@@ -1,0 +1,46 @@
+name: Snapshot Checker
+
+on:
+  pull_request:
+
+jobs:
+  snapshot-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        working-directory: .github/checker-utils
+        run: npm install --no-fund --no-audit
+
+      - name: Check snapshots
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.sha }}
+          BASE_BRANCH: ${{ github.event.pull_request.base.ref }}
+        run: |
+          set -euo pipefail
+
+          # Determine network based on target branch
+          if [ "$BASE_BRANCH" = "main" ]; then
+            NETWORK="mainnet"
+          else
+            NETWORK="devnet"
+          fi
+
+          mapfile -t files < <(git diff --name-status "$BASE_SHA...$HEAD_SHA" -- snapshots | awk '$1 ~ /[AM]/ && $2 ~ /.json$/ {print $2}')
+
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No snapshot files added or modified." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          npx --yes --prefix .github/checker-utils ts-node --project .github/checker-utils/tsconfig.json --transpile-only .github/checker-utils/snapshot-checker.ts "$NETWORK" "${files[@]}"
