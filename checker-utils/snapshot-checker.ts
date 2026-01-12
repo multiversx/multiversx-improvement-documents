@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { AddressUtils, ApiService } from "@multiversx/sdk-nestjs";
+import { AddressUtils } from "@multiversx/sdk-nestjs";
 import { BigNumber } from "bignumber.js";
 import { MerkleTreeUtils } from "./merkle-tree.utils";
 import axios from "axios";
