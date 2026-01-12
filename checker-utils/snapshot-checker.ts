@@ -114,8 +114,6 @@ async function main(): Promise<void> {
   console.log(`  Proposal ID:    ${proposalId}`);
   console.log(`  Vote SC:        ${voteScAddress}`);
   console.log(`  Entries:        ${content.length}`);
-  console.log("\nSnapshot Content:");
-  console.log(JSON.stringify(content, null, 2));
 
   const isValid = isValidSnapshotData(data);
   if (!isValid) {
