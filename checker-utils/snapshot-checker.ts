@@ -117,6 +117,7 @@ async function main(): Promise<void> {
   const snapshotData = readSnapshot(filePath);
 
   if (!snapshotData) {
+    console.error(`Failed to read snapshot file ${filePath}.`);
     return;
   }
 
