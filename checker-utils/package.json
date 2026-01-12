@@ -7,11 +7,15 @@
     "snapshot-summary": "ts-node --transpile-only snapshot-summary.ts"
   },
   "devDependencies": {
+    "@types/node": "^25.0.6",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "@multiversx/sdk-core": "^13.17.2",
     "@multiversx/sdk-nestjs": "^0.5.5",
-    "bignumber.js": "^9.3.1"
+    "axios": "^1.13.2",
+    "bignumber.js": "^9.3.1",
+    "merkletreejs": "^0.6.0"
   }
 }
