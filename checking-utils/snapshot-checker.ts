@@ -21,28 +21,11 @@ function readSnapshot(filePath: string): SnapshotData | null {
   }
 }
 
-function writeSummary(data: SnapshotData | null, summaryPath?: string): void {
-  if (!summaryPath || !data) {
-    return;
-  }
-
-  const lines: string[] = ["## Added snapshot", ""];
-  lines.push(`- voteScAddress: \`${data.voteScAddress}\` • proposalId: \`${data.proposalId}\``);
-  lines.push("  ```json");
-  lines.push(JSON.stringify(data.content, null, 2));
-  lines.push("  ```");
-
-  fs.appendFileSync(summaryPath, `${lines.join("\n")}\n`, "utf-8");
-}
-
 function main(): void {
   const files = process.argv.slice(2);
-  const summaryPath = process.env.GITHUB_STEP_SUMMARY;
 
   if (files.length === 0) {
-    if (summaryPath) {
-      fs.appendFileSync(summaryPath, "No new snapshot files added.\n", "utf-8");
-    }
+    console.log("No new snapshot files added.");
     return;
   }
 
@@ -56,10 +39,13 @@ function main(): void {
 
   const { proposalId, voteScAddress, content } = data;
 
-  // Log extracted data
-  console.log(JSON.stringify({ proposalId, voteScAddress, content }));
-
-  writeSummary(data, summaryPath);
+  // Log extracted data in a formatted way
+  console.log("\n✓ Snapshot loaded successfully");
+  console.log(`  Proposal ID:    ${proposalId}`);
+  console.log(`  Vote SC:        ${voteScAddress}`);
+  console.log(`  Entries:        ${content.length}`);
+  console.log("\nSnapshot Content:");
+  console.log(JSON.stringify(content, null, 2));
 }
 
 main();
