@@ -57,8 +57,10 @@ function isValidSnapshotData(data: SnapshotData): boolean  {
   return true;
 }
 
-async function getRootHashForProposal(voteScAddress: string, proposalId: string): Promise<string> {
-  const baseUrl = `https://api.multiversx.com`;
+async function getRootHashForProposal(voteScAddress: string, proposalId: string, network: string): Promise<string> {
+  const baseUrl = network === 'mainnet' 
+    ? 'https://api.multiversx.com' 
+    : 'https://devnet-api.multiversx.com';
   const {data: txData} = await axios.get(`${baseUrl}/transactions?receiver=${voteScAddress}&function=set_root_hash&status=success&size=1000`);
   for(const tx of txData) {
     const decodedData = Buffer.from(tx.data, 'base64').toString('utf-8');
@@ -71,12 +73,12 @@ async function getRootHashForProposal(voteScAddress: string, proposalId: string)
   return '';
 }
 
-async function isValidSnapshotRootHash(data: SnapshotData): Promise<boolean> {
+async function isValidSnapshotRootHash(data: SnapshotData, network: string): Promise<boolean> {
   const merkleTreeUtils = new MerkleTreeUtils(data.content);
   const computedRootHash = merkleTreeUtils.getRootHash().slice(2); // remove 0x prefix
 
   console.log(`Computed root hash: ${computedRootHash}`);
-  const networkRootHash = await getRootHashForProposal(data.voteScAddress, data.proposalId);
+  const networkRootHash = await getRootHashForProposal(data.voteScAddress, data.proposalId, network);
   if(networkRootHash === '') {
     console.error(`No root hash found on chain for proposal ID ${data.proposalId}`);
     return false;
@@ -92,7 +94,15 @@ async function isValidSnapshotRootHash(data: SnapshotData): Promise<boolean> {
 }
 
 async function main(): Promise<void> {
-  const files = process.argv.slice(2);
+  const args = process.argv.slice(2);
+  
+  if (args.length === 0) {
+    console.log("No network or snapshot files provided.");
+    return;
+  }
+
+  const network = args[0];
+  const files = args.slice(1);
 
   if (files.length === 0) {
     console.log("No new snapshot files added.");
@@ -111,6 +121,7 @@ async function main(): Promise<void> {
 
   // Log extracted data in a formatted way
   console.log("\n✓ Snapshot loaded successfully");
+  console.log(`  Network:        ${network}`);
   console.log(`  Proposal ID:    ${proposalId}`);
   console.log(`  Vote SC:        ${voteScAddress}`);
   console.log(`  Entries:        ${content.length}`);
@@ -121,7 +132,7 @@ async function main(): Promise<void> {
     process.exit(1);
   }
 
-  const isRootHashValid = await isValidSnapshotRootHash(data);
+  const isRootHashValid = await isValidSnapshotRootHash(data, network);
   if (!isRootHashValid) {
     console.error("Snapshot root hash validation failed.");
     process.exit(1);
