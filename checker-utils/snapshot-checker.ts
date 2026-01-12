@@ -25,30 +25,30 @@ function readSnapshot(filePath: string): SnapshotData | null {
   }
 }
 
-function isValidSnapshotData(data: SnapshotData): boolean  {
-  const {voteScAddress, proposalId, content}  = data;
+function isValidSnapshotData(data: SnapshotData): boolean {
+  const { voteScAddress, proposalId, content } = data;
 
   // check vote sc address validity
-  if(!AddressUtils.isSmartContractAddress(voteScAddress)) {
+  if (!AddressUtils.isSmartContractAddress(voteScAddress)) {
     console.error(`Invalid vote SC address: ${voteScAddress}`);
     return false;
   }
-  
+
   // check proposal id validity
-  if(Number.isNaN(Number(proposalId))) {
+  if (Number.isNaN(Number(proposalId))) {
     console.error(`Invalid proposal ID: ${proposalId}`);
     return false;
-  
+
   }
   // check content entries validity
-  for(const entry of content) {
-    if(!AddressUtils.isAddressValid(entry.address)) {
+  for (const entry of content) {
+    if (!AddressUtils.isAddressValid(entry.address)) {
       console.error(`Invalid address in snapshot content: ${entry.address}`);
       return false;
     }
 
     const balance = new BigNumber(entry.balance);
-    if(balance.isNaN() || balance.isLessThan(new BigNumber(0))) {
+    if (balance.isNaN() || balance.isLessThan(new BigNumber(0))) {
       console.error(`Invalid balance for address ${entry.address}: ${entry.balance}`);
       return false;
     }
@@ -58,15 +58,15 @@ function isValidSnapshotData(data: SnapshotData): boolean  {
 }
 
 async function getRootHashForProposal(voteScAddress: string, proposalId: string, network: string): Promise<string> {
-  const baseUrl = network === 'mainnet' 
-    ? 'https://api.multiversx.com' 
+  const baseUrl = network === 'mainnet'
+    ? 'https://api.multiversx.com'
     : 'https://devnet-api.multiversx.com';
-  const {data: txData} = await axios.get(`${baseUrl}/transactions?receiver=${voteScAddress}&function=set_root_hash&status=success&size=1000`);
-  for(const tx of txData) {
+  const { data: txData } = await axios.get(`${baseUrl}/transactions?receiver=${voteScAddress}&function=set_root_hash&status=success&size=1000`);
+  for (const tx of txData) {
     const decodedData = Buffer.from(tx.data, 'base64').toString('utf-8');
     const [_functionName, rootHash, proposalIdFromTxRaw] = decodedData.split('@');
     const proposalIdFromTx = BigNumber(proposalIdFromTxRaw, 16).toString(10);
-    if(proposalIdFromTx === proposalId) {
+    if (proposalIdFromTx === proposalId) {
       return rootHash;
     }
   }
@@ -79,13 +79,13 @@ async function isValidSnapshotRootHash(data: SnapshotData, network: string): Pro
 
   console.log(`Computed root hash: ${computedRootHash}`);
   const networkRootHash = await getRootHashForProposal(data.voteScAddress, data.proposalId, network);
-  if(networkRootHash === '') {
+  if (networkRootHash === '') {
     console.error(`No root hash found on chain for proposal ID ${data.proposalId}`);
     return false;
   }
   console.log(`Network root hash: ${networkRootHash}`);
 
-  if(computedRootHash !== networkRootHash) {
+  if (computedRootHash !== networkRootHash) {
     console.error(`Root hash mismatch!`);
     return false;
   }
@@ -96,29 +96,25 @@ async function isValidSnapshotRootHash(data: SnapshotData, network: string): Pro
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
   
-  if (args.length === 0) {
-    console.log("No network or snapshot files provided.");
+  if (args.length < 2) {
+    console.log("Usage: snapshot-checker <network> <snapshotFile>");
     return;
   }
 
-  const network = args[0];
-  const files = args.slice(1);
+  const [network, filePath, ...rest] = args;
 
-  if (files.length === 0) {
-    console.log("No new snapshot files added.");
+  if (rest.length > 0) {
+    console.error("Multiple snapshot files provided. Expect exactly one.");
+    process.exit(1);
+  }
+
+  const snapshotData = readSnapshot(filePath);
+
+  if (!snapshotData) {
     return;
   }
 
-  const data = files
-    .map(readSnapshot)
-    .find((snapshot): snapshot is SnapshotData => snapshot !== null);
-
-  if (!data) {
-    return;
-  }
-
-  const { proposalId, voteScAddress, content } = data;
-
+  const { proposalId, voteScAddress, content } = snapshotData;
   // Log extracted data in a formatted way
   console.log("\n✓ Snapshot loaded successfully");
   console.log(`  Network:        ${network}`);
@@ -126,20 +122,20 @@ async function main(): Promise<void> {
   console.log(`  Vote SC:        ${voteScAddress}`);
   console.log(`  Entries:        ${content.length}`);
 
-  const isValid = isValidSnapshotData(data);
+  const isValid = isValidSnapshotData(snapshotData);
   if (!isValid) {
     console.error("Snapshot data validation failed.");
     process.exit(1);
   }
 
-  const isRootHashValid = await isValidSnapshotRootHash(data, network);
+  const isRootHashValid = await isValidSnapshotRootHash(snapshotData, network);
   if (!isRootHashValid) {
     console.error("Snapshot root hash validation failed.");
     process.exit(1);
   }
-  
+
   console.log("\n✓ Snapshot data is valid.");
-  
+
 }
 
 main();
