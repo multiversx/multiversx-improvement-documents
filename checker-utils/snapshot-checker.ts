@@ -48,7 +48,7 @@ function isValidSnapshotData(data: SnapshotData): boolean {
     }
 
     // Ensure balance is plain decimal, not scientific notation
-    if (!/^\d+$/.test(entry.balance)) {
+    if (!/^\d+(\.\d+)?$/.test(entry.balance)) {
       console.error(`Balance must be a plain decimal number (no scientific notation): ${entry.balance}`);
       return false;
     }
